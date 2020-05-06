@@ -31,16 +31,28 @@
 
 
 
-## 目前进展
+## 4.进行NodeMCU联网测试
+
+在编写完相关联网测试的代码之后，我们可以通过save来进行测试，也可以通过upload来进行测试。
+如果使用upload进行测试，我们要让它自动默认执行，需要将文件名命名为init.lua。
+上传完毕文件后，需要按NodeMCU上的RST按钮来进行重启，然后NodeMCU就会自动执行上传的init代码。（这个具体没搞明白为啥）
+
+NodeMCU联网测试代码存放在code-->connect to wifi-->init.lua中。
+
+其中需要更改：
+    station_info(也就是station_information)中的内容
+
+    ssid：AP的名称（如TP-Link625）
+    pwd：AP的接入密码
+
+    注意！NodeMCU只能识别2.4GHz频段！！
+
+
+## 目前任务进展
+NodeMCU尝试与Raspberry取得MQTT通信
 
 Raspberry需要进行和阿里云的联网配置
 
-NodeMCU尝试连入AP并去Raspberry取得MQTT通信
-
-
-在使用NodeMCU进行代码上传并测试的时候，需要通过RST按钮去重新载入（我不太清楚为啥，但是按这个就对了）
-
-NodeMCU貌似只能识别2.4GHz网段
 
 
 

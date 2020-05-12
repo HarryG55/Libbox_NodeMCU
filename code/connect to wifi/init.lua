@@ -3,7 +3,7 @@ print("Setting Wifi")
 wifi.setmode(wifi.STATION)
 
 station_info={}
-station_info.ssid="Isprition"
+station_info.ssid="Insprition"
 station_info.pwd="P-6h6662"
 
 print("Configurating...")

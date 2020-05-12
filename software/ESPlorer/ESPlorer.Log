@@ -2,8 +2,8 @@
 <!DOCTYPE log SYSTEM "logger.dtd">
 <log>
 <record>
-  <date>2020-05-06T22:35:12</date>
-  <millis>1588775712110</millis>
+  <date>2020-05-12T16:18:11</date>
+  <millis>1589271491908</millis>
   <sequence>5</sequence>
   <logger>ESPlorer.ESPlorer</logger>
   <level>INFO</level>
@@ -13,8 +13,8 @@
   <message>Load saved settings: Firmware:NodeMCU</message>
 </record>
 <record>
-  <date>2020-05-06T22:35:12</date>
-  <millis>1588775712115</millis>
+  <date>2020-05-12T16:18:11</date>
+  <millis>1589271491923</millis>
   <sequence>6</sequence>
   <logger>ESPlorer.ESPlorer</logger>
   <level>INFO</level>
@@ -24,8 +24,8 @@
   <message>Snippets: loading...</message>
 </record>
 <record>
-  <date>2020-05-06T22:35:12</date>
-  <millis>1588775712120</millis>
+  <date>2020-05-12T16:18:11</date>
+  <millis>1589271491936</millis>
   <sequence>7</sequence>
   <logger>ESPlorer.ESPlorer</logger>
   <level>INFO</level>
@@ -35,8 +35,8 @@
   <message>Snippets load: Success.</message>
 </record>
 <record>
-  <date>2020-05-06T22:35:12</date>
-  <millis>1588775712274</millis>
+  <date>2020-05-12T16:18:12</date>
+  <millis>1589271492077</millis>
   <sequence>8</sequence>
   <logger>ESPlorer.ESPlorer</logger>
   <level>INFO</level>
@@ -46,8 +46,8 @@
   <message>Set new color theme: Success.</message>
 </record>
 <record>
-  <date>2020-05-06T22:35:12</date>
-  <millis>1588775712280</millis>
+  <date>2020-05-12T16:18:12</date>
+  <millis>1589271492086</millis>
   <sequence>9</sequence>
   <logger>ESPlorer.ESPlorer</logger>
   <level>INFO</level>
@@ -57,8 +57,8 @@
   <message>Load saved settings: DONE.</message>
 </record>
 <record>
-  <date>2020-05-06T22:35:12</date>
-  <millis>1588775712281</millis>
+  <date>2020-05-12T16:18:12</date>
+  <millis>1589271492089</millis>
   <sequence>10</sequence>
   <logger>ESPlorer.ESPlorer</logger>
   <level>INFO</level>
@@ -68,8 +68,8 @@
   <message>Snippets: loading...</message>
 </record>
 <record>
-  <date>2020-05-06T22:35:12</date>
-  <millis>1588775712284</millis>
+  <date>2020-05-12T16:18:12</date>
+  <millis>1589271492091</millis>
   <sequence>11</sequence>
   <logger>ESPlorer.ESPlorer</logger>
   <level>INFO</level>
@@ -79,8 +79,8 @@
   <message>Snippets load: Success.</message>
 </record>
 <record>
-  <date>2020-05-06T22:35:12</date>
-  <millis>1588775712911</millis>
+  <date>2020-05-12T16:18:12</date>
+  <millis>1589271492717</millis>
   <sequence>12</sequence>
   <logger>ESPlorer.ESPlorer</logger>
   <level>INFO</level>
@@ -90,9 +90,20 @@
   <message>Scan system...</message>
 </record>
 <record>
-  <date>2020-05-06T22:35:12</date>
-  <millis>1588775712917</millis>
+  <date>2020-05-12T16:18:12</date>
+  <millis>1589271492729</millis>
   <sequence>13</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>found COM3</message>
+</record>
+<record>
+  <date>2020-05-12T16:18:12</date>
+  <millis>1589271492731</millis>
+  <sequence>14</sequence>
   <logger>ESPlorer.ESPlorer</logger>
   <level>INFO</level>
   <class>ESPlorer.ESPlorer</class>
@@ -101,9 +112,9 @@
   <message>found COM5</message>
 </record>
 <record>
-  <date>2020-05-06T22:35:12</date>
-  <millis>1588775712918</millis>
-  <sequence>14</sequence>
+  <date>2020-05-12T16:18:12</date>
+  <millis>1589271492733</millis>
+  <sequence>15</sequence>
   <logger>ESPlorer.ESPlorer</logger>
   <level>INFO</level>
   <class>ESPlorer.ESPlorer</class>
@@ -112,19 +123,8 @@
   <message>found COM6</message>
 </record>
 <record>
-  <date>2020-05-06T22:35:12</date>
-  <millis>1588775712921</millis>
-  <sequence>15</sequence>
-  <logger>ESPlorer.ESPlorer</logger>
-  <level>INFO</level>
-  <class>ESPlorer.ESPlorer</class>
-  <method>log</method>
-  <thread>16</thread>
-  <message>found last saved serial port COM7</message>
-</record>
-<record>
-  <date>2020-05-06T22:35:12</date>
-  <millis>1588775712927</millis>
+  <date>2020-05-12T16:18:12</date>
+  <millis>1589271492744</millis>
   <sequence>16</sequence>
   <logger>ESPlorer.ESPlorer</logger>
   <level>INFO</level>
@@ -134,19 +134,19 @@
   <message>Scan done.</message>
 </record>
 <record>
-  <date>2020-05-06T22:35:14</date>
-  <millis>1588775714895</millis>
+  <date>2020-05-12T16:18:34</date>
+  <millis>1589271514270</millis>
   <sequence>17</sequence>
   <logger>ESPlorer.ESPlorer</logger>
   <level>INFO</level>
   <class>ESPlorer.ESPlorer</class>
   <method>log</method>
   <thread>16</thread>
-  <message>Serial port COM7 save as default.</message>
+  <message>Serial port COM3 save as default.</message>
 </record>
 <record>
-  <date>2020-05-06T22:35:14</date>
-  <millis>1588775714897</millis>
+  <date>2020-05-12T16:18:34</date>
+  <millis>1589271514270</millis>
   <sequence>18</sequence>
   <logger>ESPlorer.ESPlorer</logger>
   <level>INFO</level>
@@ -156,30 +156,30 @@
   <message>Baud rate 115200 save as default.</message>
 </record>
 <record>
-  <date>2020-05-06T22:35:14</date>
-  <millis>1588775714897</millis>
+  <date>2020-05-12T16:18:34</date>
+  <millis>1589271514272</millis>
   <sequence>19</sequence>
   <logger>ESPlorer.ESPlorer</logger>
   <level>INFO</level>
   <class>ESPlorer.ESPlorer</class>
   <method>log</method>
   <thread>16</thread>
-  <message>Try to open port COM7, baud 115200, 8N1</message>
+  <message>Try to open port COM3, baud 115200, 8N1</message>
 </record>
 <record>
-  <date>2020-05-06T22:35:14</date>
-  <millis>1588775714904</millis>
+  <date>2020-05-12T16:18:34</date>
+  <millis>1589271514281</millis>
   <sequence>20</sequence>
   <logger>ESPlorer.ESPlorer</logger>
   <level>INFO</level>
   <class>ESPlorer.ESPlorer</class>
   <method>log</method>
   <thread>16</thread>
-  <message>Open port COM7 - Success.</message>
+  <message>Open port COM3 - Success.</message>
 </record>
 <record>
-  <date>2020-05-06T22:35:14</date>
-  <millis>1588775714929</millis>
+  <date>2020-05-12T16:18:34</date>
+  <millis>1589271514294</millis>
   <sequence>21</sequence>
   <logger>ESPlorer.ESPlorer</logger>
   <level>INFO</level>
@@ -189,42 +189,53 @@
   <message>sending:&lt;CR&gt;&lt;LF&gt;</message>
 </record>
 <record>
-  <date>2020-05-06T22:35:14</date>
-  <millis>1588775714965</millis>
+  <date>2020-05-12T16:18:34</date>
+  <millis>1589271514350</millis>
   <sequence>22</sequence>
   <logger>ESPlorer.ESPlorer</logger>
   <level>INFO</level>
   <class>ESPlorer.ESPlorer</class>
   <method>log</method>
-  <thread>25</thread>
+  <thread>26</thread>
   <message>sending:=node.heap()&lt;CR&gt;&lt;LF&gt;</message>
 </record>
 <record>
-  <date>2020-05-06T22:35:14</date>
-  <millis>1588775714976</millis>
+  <date>2020-05-12T16:18:34</date>
+  <millis>1589271514359</millis>
   <sequence>23</sequence>
   <logger>ESPlorer.ESPlorer</logger>
   <level>INFO</level>
   <class>ESPlorer.ESPlorer</class>
   <method>log</method>
-  <thread>25</thread>
+  <thread>26</thread>
   <message>Snippets: loading...</message>
 </record>
 <record>
-  <date>2020-05-06T22:35:14</date>
-  <millis>1588775714986</millis>
+  <date>2020-05-12T16:18:34</date>
+  <millis>1589271514363</millis>
   <sequence>24</sequence>
   <logger>ESPlorer.ESPlorer</logger>
   <level>INFO</level>
   <class>ESPlorer.ESPlorer</class>
   <method>log</method>
-  <thread>25</thread>
+  <thread>26</thread>
   <message>Snippets load: Success.</message>
 </record>
 <record>
-  <date>2020-05-06T22:35:25</date>
-  <millis>1588775725467</millis>
+  <date>2020-05-12T16:18:37</date>
+  <millis>1589271517438</millis>
   <sequence>25</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>sending:=node.info()&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2020-05-12T17:11:20</date>
+  <millis>1589274680549</millis>
+  <sequence>26</sequence>
   <logger>ESPlorer.ESPlorer</logger>
   <level>INFO</level>
   <class>ESPlorer.ESPlorer</class>
@@ -233,9 +244,9 @@
   <message>Try to open file init.lua</message>
 </record>
 <record>
-  <date>2020-05-06T22:35:25</date>
-  <millis>1588775725470</millis>
-  <sequence>26</sequence>
+  <date>2020-05-12T17:11:20</date>
+  <millis>1589274680563</millis>
+  <sequence>27</sequence>
   <logger>ESPlorer.ESPlorer</logger>
   <level>INFO</level>
   <class>ESPlorer.ESPlorer</class>
@@ -244,9 +255,9 @@
   <message>File name: D:\Code\Github\Libbox_NodeMCU\code\connect to wifi\init.lua</message>
 </record>
 <record>
-  <date>2020-05-06T22:35:25</date>
-  <millis>1588775725475</millis>
-  <sequence>27</sequence>
+  <date>2020-05-12T17:11:20</date>
+  <millis>1589274680573</millis>
+  <sequence>28</sequence>
   <logger>ESPlorer.ESPlorer</logger>
   <level>INFO</level>
   <class>ESPlorer.ESPlorer</class>
@@ -255,9 +266,9 @@
   <message>Try to load file init.lua</message>
 </record>
 <record>
-  <date>2020-05-06T22:35:25</date>
-  <millis>1588775725509</millis>
-  <sequence>28</sequence>
+  <date>2020-05-12T17:11:20</date>
+  <millis>1589274680901</millis>
+  <sequence>29</sequence>
   <logger>ESPlorer.ESPlorer</logger>
   <level>INFO</level>
   <class>ESPlorer.ESPlorer</class>
@@ -266,9 +277,9 @@
   <message>Loading init.lua: Success.</message>
 </record>
 <record>
-  <date>2020-05-06T22:35:25</date>
-  <millis>1588775725510</millis>
-  <sequence>29</sequence>
+  <date>2020-05-12T17:11:20</date>
+  <millis>1589274680911</millis>
+  <sequence>30</sequence>
   <logger>ESPlorer.ESPlorer</logger>
   <level>INFO</level>
   <class>ESPlorer.ESPlorer</class>
@@ -277,218 +288,9 @@
   <message>Open "init.lua": Success.</message>
 </record>
 <record>
-  <date>2020-05-06T22:35:32</date>
-  <millis>1588775732046</millis>
-  <sequence>30</sequence>
-  <logger>ESPlorer.ESPlorer</logger>
-  <level>INFO</level>
-  <class>ESPlorer.ESPlorer</class>
-  <method>log</method>
-  <thread>16</thread>
-  <message>Uploader: chooser selected file:1</message>
-</record>
-<record>
-  <date>2020-05-06T22:35:32</date>
-  <millis>1588775732047</millis>
+  <date>2020-05-12T17:11:30</date>
+  <millis>1589274690474</millis>
   <sequence>31</sequence>
-  <logger>ESPlorer.ESPlorer</logger>
-  <level>INFO</level>
-  <class>ESPlorer.ESPlorer</class>
-  <method>log</method>
-  <thread>16</thread>
-  <message>BinaryFileLoader: Try to load file init.lua ...</message>
-</record>
-<record>
-  <date>2020-05-06T22:35:32</date>
-  <millis>1588775732048</millis>
-  <sequence>32</sequence>
-  <logger>ESPlorer.ESPlorer</logger>
-  <level>INFO</level>
-  <class>ESPlorer.ESPlorer</class>
-  <method>log</method>
-  <thread>16</thread>
-  <message>BinaryFileLoader: Load file init.lua: Success, size:221</message>
-</record>
-<record>
-  <date>2020-05-06T22:35:32</date>
-  <millis>1588775732048</millis>
-  <sequence>33</sequence>
-  <logger>ESPlorer.ESPlorer</logger>
-  <level>INFO</level>
-  <class>ESPlorer.ESPlorer</class>
-  <method>log</method>
-  <thread>16</thread>
-  <message>1. packets = 0</message>
-</record>
-<record>
-  <date>2020-05-06T22:35:32</date>
-  <millis>1588775732049</millis>
-  <sequence>34</sequence>
-  <logger>ESPlorer.ESPlorer</logger>
-  <level>INFO</level>
-  <class>ESPlorer.ESPlorer</class>
-  <method>log</method>
-  <thread>16</thread>
-  <message>2. packets = 1</message>
-</record>
-<record>
-  <date>2020-05-06T22:35:32</date>
-  <millis>1588775732049</millis>
-  <sequence>35</sequence>
-  <logger>ESPlorer.ESPlorer</logger>
-  <level>INFO</level>
-  <class>ESPlorer.ESPlorer</class>
-  <method>log</method>
-  <thread>16</thread>
-  <message>3. packet = 0</message>
-</record>
-<record>
-  <date>2020-05-06T22:35:32</date>
-  <millis>1588775732050</millis>
-  <sequence>36</sequence>
-  <logger>ESPlorer.ESPlorer</logger>
-  <level>INFO</level>
-  <class>ESPlorer.ESPlorer</class>
-  <method>log</method>
-  <thread>16</thread>
-  <message>BinaryFileLoader: Prepare next packet for send, len=221</message>
-</record>
-<record>
-  <date>2020-05-06T22:35:32</date>
-  <millis>1588775732050</millis>
-  <sequence>37</sequence>
-  <logger>ESPlorer.ESPlorer</logger>
-  <level>INFO</level>
-  <class>ESPlorer.ESPlorer</class>
-  <method>log</method>
-  <thread>16</thread>
-  <message>BinaryFileLoader: Total packets prepared=1</message>
-</record>
-<record>
-  <date>2020-05-06T22:35:32</date>
-  <millis>1588775732051</millis>
-  <sequence>38</sequence>
-  <logger>ESPlorer.ESPlorer</logger>
-  <level>INFO</level>
-  <class>ESPlorer.ESPlorer</class>
-  <method>log</method>
-  <thread>16</thread>
-  <message>sendPackets=1</message>
-</record>
-<record>
-  <date>2020-05-06T22:35:32</date>
-  <millis>1588775732051</millis>
-  <sequence>39</sequence>
-  <logger>ESPlorer.ESPlorer</logger>
-  <level>INFO</level>
-  <class>ESPlorer.ESPlorer</class>
-  <method>log</method>
-  <thread>16</thread>
-  <message>Uploader: Starting...</message>
-</record>
-<record>
-  <date>2020-05-06T22:35:32</date>
-  <millis>1588775732064</millis>
-  <sequence>40</sequence>
-  <logger>ESPlorer.ESPlorer</logger>
-  <level>INFO</level>
-  <class>ESPlorer.ESPlorer</class>
-  <method>log</method>
-  <thread>16</thread>
-  <message>Uploader: Add EventListener: Success.</message>
-</record>
-<record>
-  <date>2020-05-06T22:35:32</date>
-  <millis>1588775732066</millis>
-  <sequence>41</sequence>
-  <logger>ESPlorer.ESPlorer</logger>
-  <level>INFO</level>
-  <class>ESPlorer.ESPlorer</class>
-  <method>log</method>
-  <thread>16</thread>
-  <message>Uploader: Start</message>
-</record>
-<record>
-  <date>2020-05-06T22:35:32</date>
-  <millis>1588775732094</millis>
-  <sequence>42</sequence>
-  <logger>ESPlorer.ESPlorer</logger>
-  <level>INFO</level>
-  <class>ESPlorer.ESPlorer</class>
-  <method>log</method>
-  <thread>16</thread>
-  <message>sending: _up=function(n,l,ll) local cs = 0 local i = 0 print("&gt;".." ") uart.on("data", l, function(b) i = i + 1 file.open("init.lua",'a+') file.write(b) file.close() cs=0 for j=1, l do cs = cs + (b:byte(j)*20)%19 end</message>
-</record>
-<record>
-  <date>2020-05-06T22:35:32</date>
-  <millis>1588775732143</millis>
-  <sequence>43</sequence>
-  <logger>ESPlorer.ESPlorer</logger>
-  <level>INFO</level>
-  <class>ESPlorer.ESPlorer</class>
-  <method>log</method>
-  <thread>16</thread>
-  <message>sending:          uart.write(0,"~~~CRC-".."START~~~"..cs.."~~~CRC-".."END~~~") if i == n then uart.on("data") end if i == n-1 and ll&gt;0 then _up(1,ll,ll) end end,0) end file.remove("init.lua")</message>
-</record>
-<record>
-  <date>2020-05-06T22:35:32</date>
-  <millis>1588775732198</millis>
-  <sequence>44</sequence>
-  <logger>ESPlorer.ESPlorer</logger>
-  <level>INFO</level>
-  <class>ESPlorer.ESPlorer</class>
-  <method>log</method>
-  <thread>16</thread>
-  <message>sending:_up(1,221,221)</message>
-</record>
-<record>
-  <date>2020-05-06T22:35:32</date>
-  <millis>1588775732286</millis>
-  <sequence>45</sequence>
-  <logger>ESPlorer.ESPlorer</logger>
-  <level>INFO</level>
-  <class>ESPlorer.ESPlorer</class>
-  <method>log</method>
-  <thread>34</thread>
-  <message>Uploader: receiving checksum 1/1 check: Success</message>
-</record>
-<record>
-  <date>2020-05-06T22:35:32</date>
-  <millis>1588775732288</millis>
-  <sequence>46</sequence>
-  <logger>ESPlorer.ESPlorer</logger>
-  <level>INFO</level>
-  <class>ESPlorer.ESPlorer</class>
-  <method>log</method>
-  <thread>34</thread>
-  <message>sending:_up=nil</message>
-</record>
-<record>
-  <date>2020-05-06T22:35:32</date>
-  <millis>1588775732292</millis>
-  <sequence>47</sequence>
-  <logger>ESPlorer.ESPlorer</logger>
-  <level>INFO</level>
-  <class>ESPlorer.ESPlorer</class>
-  <method>log</method>
-  <thread>34</thread>
-  <message>Uploader: Success</message>
-</record>
-<record>
-  <date>2020-05-06T22:35:32</date>
-  <millis>1588775732328</millis>
-  <sequence>48</sequence>
-  <logger>ESPlorer.ESPlorer</logger>
-  <level>INFO</level>
-  <class>ESPlorer.ESPlorer</class>
-  <method>log</method>
-  <thread>34</thread>
-  <message>Operation done. Duration = 277 ms</message>
-</record>
-<record>
-  <date>2020-05-06T22:35:34</date>
-  <millis>1588775734988</millis>
-  <sequence>49</sequence>
   <logger>ESPlorer.ESPlorer</logger>
   <level>INFO</level>
   <class>ESPlorer.ESPlorer</class>
@@ -497,9 +299,9 @@
   <message>We save known file init.lua</message>
 </record>
 <record>
-  <date>2020-05-06T22:35:34</date>
-  <millis>1588775734988</millis>
-  <sequence>50</sequence>
+  <date>2020-05-12T17:11:30</date>
+  <millis>1589274690484</millis>
+  <sequence>32</sequence>
   <logger>ESPlorer.ESPlorer</logger>
   <level>INFO</level>
   <class>ESPlorer.ESPlorer</class>
@@ -508,9 +310,9 @@
   <message>Try to saving file init.lua ...</message>
 </record>
 <record>
-  <date>2020-05-06T22:35:34</date>
-  <millis>1588775734989</millis>
-  <sequence>51</sequence>
+  <date>2020-05-12T17:11:30</date>
+  <millis>1589274690503</millis>
+  <sequence>33</sequence>
   <logger>ESPlorer.ESPlorer</logger>
   <level>INFO</level>
   <class>ESPlorer.ESPlorer</class>
@@ -519,9 +321,9 @@
   <message>Save file init.lua: Success.</message>
 </record>
 <record>
-  <date>2020-05-06T22:35:34</date>
-  <millis>1588775734993</millis>
-  <sequence>52</sequence>
+  <date>2020-05-12T17:11:30</date>
+  <millis>1589274690540</millis>
+  <sequence>34</sequence>
   <logger>ESPlorer.ESPlorer</logger>
   <level>INFO</level>
   <class>ESPlorer.ESPlorer</class>
@@ -530,9 +332,9 @@
   <message>FileSaveESP: Try to save file to ESP...</message>
 </record>
 <record>
-  <date>2020-05-06T22:35:35</date>
-  <millis>1588775735002</millis>
-  <sequence>53</sequence>
+  <date>2020-05-12T17:11:30</date>
+  <millis>1589274690605</millis>
+  <sequence>35</sequence>
   <logger>ESPlorer.ESPlorer</logger>
   <level>INFO</level>
   <class>ESPlorer.ESPlorer</class>
@@ -541,9 +343,9 @@
   <message>DataSender: start "Smart Mode"</message>
 </record>
 <record>
-  <date>2020-05-06T22:35:35</date>
-  <millis>1588775735003</millis>
-  <sequence>54</sequence>
+  <date>2020-05-12T17:11:30</date>
+  <millis>1589274690610</millis>
+  <sequence>36</sequence>
   <logger>ESPlorer.ESPlorer</logger>
   <level>INFO</level>
   <class>ESPlorer.ESPlorer</class>
@@ -552,9 +354,9 @@
   <message>FileSaveESP: Starting...</message>
 </record>
 <record>
-  <date>2020-05-06T22:35:35</date>
-  <millis>1588775735015</millis>
-  <sequence>55</sequence>
+  <date>2020-05-12T17:11:30</date>
+  <millis>1589274690750</millis>
+  <sequence>37</sequence>
   <logger>ESPlorer.ESPlorer</logger>
   <level>INFO</level>
   <class>ESPlorer.ESPlorer</class>
@@ -563,9 +365,9 @@
   <message>0</message>
 </record>
 <record>
-  <date>2020-05-06T22:35:35</date>
-  <millis>1588775735015</millis>
-  <sequence>56</sequence>
+  <date>2020-05-12T17:11:30</date>
+  <millis>1589274690752</millis>
+  <sequence>38</sequence>
   <logger>ESPlorer.ESPlorer</logger>
   <level>INFO</level>
   <class>ESPlorer.ESPlorer</class>
@@ -574,31 +376,284 @@
   <message>sending:file.remove("init.lua");&lt;CR&gt;&lt;LF&gt;</message>
 </record>
 <record>
-  <date>2020-05-06T22:35:35</date>
-  <millis>1588775735020</millis>
+  <date>2020-05-12T17:11:30</date>
+  <millis>1589274690766</millis>
+  <sequence>39</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>30</thread>
+  <message>recv:o? c|???#žrpü` ` ?</message>
+</record>
+<record>
+  <date>2020-05-12T17:11:33</date>
+  <millis>1589274693773</millis>
+  <sequence>40</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>Operation done. Duration = 3221 ms</message>
+</record>
+<record>
+  <date>2020-05-12T17:11:33</date>
+  <millis>1589274693774</millis>
+  <sequence>41</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>Waiting answer from ESP - Timeout reached. Command aborted.</message>
+</record>
+<record>
+  <date>2020-05-12T17:11:37</date>
+  <millis>1589274697794</millis>
+  <sequence>42</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>Close port COM3 - Success.</message>
+</record>
+<record>
+  <date>2020-05-12T17:11:38</date>
+  <millis>1589274698751</millis>
+  <sequence>43</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>Serial port COM3 save as default.</message>
+</record>
+<record>
+  <date>2020-05-12T17:11:38</date>
+  <millis>1589274698761</millis>
+  <sequence>44</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>Baud rate 115200 save as default.</message>
+</record>
+<record>
+  <date>2020-05-12T17:11:38</date>
+  <millis>1589274698762</millis>
+  <sequence>45</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>Try to open port COM3, baud 115200, 8N1</message>
+</record>
+<record>
+  <date>2020-05-12T17:11:38</date>
+  <millis>1589274698765</millis>
+  <sequence>46</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>Open port COM3 - Success.</message>
+</record>
+<record>
+  <date>2020-05-12T17:11:38</date>
+  <millis>1589274698832</millis>
+  <sequence>47</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>sending:&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2020-05-12T17:11:40</date>
+  <millis>1589274700663</millis>
+  <sequence>48</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>Close port COM3 - Success.</message>
+</record>
+<record>
+  <date>2020-05-12T17:11:41</date>
+  <millis>1589274701747</millis>
+  <sequence>49</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>Serial port COM3 save as default.</message>
+</record>
+<record>
+  <date>2020-05-12T17:11:41</date>
+  <millis>1589274701748</millis>
+  <sequence>50</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>Baud rate 115200 save as default.</message>
+</record>
+<record>
+  <date>2020-05-12T17:11:41</date>
+  <millis>1589274701749</millis>
+  <sequence>51</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>Try to open port COM3, baud 115200, 8N1</message>
+</record>
+<record>
+  <date>2020-05-12T17:11:41</date>
+  <millis>1589274701750</millis>
+  <sequence>52</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>Open port COM3 - Success.</message>
+</record>
+<record>
+  <date>2020-05-12T17:11:41</date>
+  <millis>1589274701785</millis>
+  <sequence>53</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>sending:&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2020-05-12T17:12:14</date>
+  <millis>1589274734630</millis>
+  <sequence>54</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>We save known file init.lua</message>
+</record>
+<record>
+  <date>2020-05-12T17:12:14</date>
+  <millis>1589274734630</millis>
+  <sequence>55</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>Try to saving file init.lua ...</message>
+</record>
+<record>
+  <date>2020-05-12T17:12:14</date>
+  <millis>1589274734632</millis>
+  <sequence>56</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>Save file init.lua: Success.</message>
+</record>
+<record>
+  <date>2020-05-12T17:12:14</date>
+  <millis>1589274734667</millis>
   <sequence>57</sequence>
   <logger>ESPlorer.ESPlorer</logger>
   <level>INFO</level>
   <class>ESPlorer.ESPlorer</class>
   <method>log</method>
-  <thread>37</thread>
-  <message>recv:_up=nilfile.remove("init.lua");&lt;CR&gt;&lt;LF&gt;</message>
+  <thread>16</thread>
+  <message>FileSaveESP: Try to save file to ESP...</message>
 </record>
 <record>
-  <date>2020-05-06T22:35:35</date>
-  <millis>1588775735028</millis>
+  <date>2020-05-12T17:12:14</date>
+  <millis>1589274734690</millis>
   <sequence>58</sequence>
   <logger>ESPlorer.ESPlorer</logger>
   <level>INFO</level>
   <class>ESPlorer.ESPlorer</class>
   <method>log</method>
-  <thread>37</thread>
+  <thread>16</thread>
+  <message>DataSender: start "Smart Mode"</message>
+</record>
+<record>
+  <date>2020-05-12T17:12:14</date>
+  <millis>1589274734691</millis>
+  <sequence>59</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>FileSaveESP: Starting...</message>
+</record>
+<record>
+  <date>2020-05-12T17:12:14</date>
+  <millis>1589274734716</millis>
+  <sequence>60</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>0</message>
+</record>
+<record>
+  <date>2020-05-12T17:12:14</date>
+  <millis>1589274734721</millis>
+  <sequence>61</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>sending:file.remove("init.lua");&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2020-05-12T17:12:14</date>
+  <millis>1589274734730</millis>
+  <sequence>62</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>35</thread>
+  <message>recv:file.remove("init.lua");&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2020-05-12T17:12:14</date>
+  <millis>1589274734741</millis>
+  <sequence>63</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>35</thread>
   <message>recv:&gt; </message>
 </record>
 <record>
-  <date>2020-05-06T22:35:35</date>
-  <millis>1588775735032</millis>
-  <sequence>59</sequence>
+  <date>2020-05-12T17:12:14</date>
+  <millis>1589274734772</millis>
+  <sequence>64</sequence>
   <logger>ESPlorer.ESPlorer</logger>
   <level>INFO</level>
   <class>ESPlorer.ESPlorer</class>
@@ -607,9 +662,9 @@
   <message>1</message>
 </record>
 <record>
-  <date>2020-05-06T22:35:35</date>
-  <millis>1588775735032</millis>
-  <sequence>60</sequence>
+  <date>2020-05-12T17:12:14</date>
+  <millis>1589274734774</millis>
+  <sequence>65</sequence>
   <logger>ESPlorer.ESPlorer</logger>
   <level>INFO</level>
   <class>ESPlorer.ESPlorer</class>
@@ -618,20 +673,31 @@
   <message>sending:file.open("init.lua","w+");&lt;CR&gt;&lt;LF&gt;</message>
 </record>
 <record>
-  <date>2020-05-06T22:35:35</date>
-  <millis>1588775735037</millis>
-  <sequence>61</sequence>
+  <date>2020-05-12T17:12:14</date>
+  <millis>1589274734781</millis>
+  <sequence>66</sequence>
   <logger>ESPlorer.ESPlorer</logger>
   <level>INFO</level>
   <class>ESPlorer.ESPlorer</class>
   <method>log</method>
-  <thread>37</thread>
+  <thread>35</thread>
   <message>recv:file.open("init.lua","w+");&lt;CR&gt;&lt;LF&gt;</message>
 </record>
 <record>
-  <date>2020-05-06T22:35:35</date>
-  <millis>1588775735050</millis>
-  <sequence>62</sequence>
+  <date>2020-05-12T17:12:14</date>
+  <millis>1589274734809</millis>
+  <sequence>67</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>35</thread>
+  <message>recv:&gt; </message>
+</record>
+<record>
+  <date>2020-05-12T17:12:14</date>
+  <millis>1589274734823</millis>
+  <sequence>68</sequence>
   <logger>ESPlorer.ESPlorer</logger>
   <level>INFO</level>
   <class>ESPlorer.ESPlorer</class>
@@ -640,9 +706,9 @@
   <message>2</message>
 </record>
 <record>
-  <date>2020-05-06T22:35:35</date>
-  <millis>1588775735050</millis>
-  <sequence>63</sequence>
+  <date>2020-05-12T17:12:14</date>
+  <millis>1589274734827</millis>
+  <sequence>69</sequence>
   <logger>ESPlorer.ESPlorer</logger>
   <level>INFO</level>
   <class>ESPlorer.ESPlorer</class>
@@ -651,31 +717,31 @@
   <message>sending:w = file.writeline&lt;CR&gt;&lt;LF&gt;</message>
 </record>
 <record>
-  <date>2020-05-06T22:35:35</date>
-  <millis>1588775735065</millis>
-  <sequence>64</sequence>
+  <date>2020-05-12T17:12:14</date>
+  <millis>1589274734834</millis>
+  <sequence>70</sequence>
   <logger>ESPlorer.ESPlorer</logger>
   <level>INFO</level>
   <class>ESPlorer.ESPlorer</class>
   <method>log</method>
-  <thread>37</thread>
-  <message>recv:&gt; w = file.writeline&lt;CR&gt;&lt;LF&gt;</message>
+  <thread>35</thread>
+  <message>recv:w = file.writeline&lt;CR&gt;&lt;LF&gt;</message>
 </record>
 <record>
-  <date>2020-05-06T22:35:35</date>
-  <millis>1588775735068</millis>
-  <sequence>65</sequence>
+  <date>2020-05-12T17:12:14</date>
+  <millis>1589274734842</millis>
+  <sequence>71</sequence>
   <logger>ESPlorer.ESPlorer</logger>
   <level>INFO</level>
   <class>ESPlorer.ESPlorer</class>
   <method>log</method>
-  <thread>37</thread>
+  <thread>35</thread>
   <message>recv:&gt; </message>
 </record>
 <record>
-  <date>2020-05-06T22:35:35</date>
-  <millis>1588775735078</millis>
-  <sequence>66</sequence>
+  <date>2020-05-12T17:12:14</date>
+  <millis>1589274734863</millis>
+  <sequence>72</sequence>
   <logger>ESPlorer.ESPlorer</logger>
   <level>INFO</level>
   <class>ESPlorer.ESPlorer</class>
@@ -684,9 +750,9 @@
   <message>3</message>
 </record>
 <record>
-  <date>2020-05-06T22:35:35</date>
-  <millis>1588775735080</millis>
-  <sequence>67</sequence>
+  <date>2020-05-12T17:12:14</date>
+  <millis>1589274734865</millis>
+  <sequence>73</sequence>
   <logger>ESPlorer.ESPlorer</logger>
   <level>INFO</level>
   <class>ESPlorer.ESPlorer</class>
@@ -695,31 +761,31 @@
   <message>sending:w([==[]==]);&lt;CR&gt;&lt;LF&gt;</message>
 </record>
 <record>
-  <date>2020-05-06T22:35:35</date>
-  <millis>1588775735083</millis>
-  <sequence>68</sequence>
+  <date>2020-05-12T17:12:14</date>
+  <millis>1589274734872</millis>
+  <sequence>74</sequence>
   <logger>ESPlorer.ESPlorer</logger>
   <level>INFO</level>
   <class>ESPlorer.ESPlorer</class>
   <method>log</method>
-  <thread>37</thread>
+  <thread>35</thread>
   <message>recv:w([==[]==]);&lt;CR&gt;&lt;LF&gt;</message>
 </record>
 <record>
-  <date>2020-05-06T22:35:35</date>
-  <millis>1588775735087</millis>
-  <sequence>69</sequence>
+  <date>2020-05-12T17:12:14</date>
+  <millis>1589274734891</millis>
+  <sequence>75</sequence>
   <logger>ESPlorer.ESPlorer</logger>
   <level>INFO</level>
   <class>ESPlorer.ESPlorer</class>
   <method>log</method>
-  <thread>37</thread>
+  <thread>35</thread>
   <message>recv:&gt; </message>
 </record>
 <record>
-  <date>2020-05-06T22:35:35</date>
-  <millis>1588775735096</millis>
-  <sequence>70</sequence>
+  <date>2020-05-12T17:12:14</date>
+  <millis>1589274734916</millis>
+  <sequence>76</sequence>
   <logger>ESPlorer.ESPlorer</logger>
   <level>INFO</level>
   <class>ESPlorer.ESPlorer</class>
@@ -728,9 +794,9 @@
   <message>4</message>
 </record>
 <record>
-  <date>2020-05-06T22:35:35</date>
-  <millis>1588775735098</millis>
-  <sequence>71</sequence>
+  <date>2020-05-12T17:12:14</date>
+  <millis>1589274734922</millis>
+  <sequence>77</sequence>
   <logger>ESPlorer.ESPlorer</logger>
   <level>INFO</level>
   <class>ESPlorer.ESPlorer</class>
@@ -739,42 +805,31 @@
   <message>sending:w([==[print("Setting Wifi")]==]);&lt;CR&gt;&lt;LF&gt;</message>
 </record>
 <record>
-  <date>2020-05-06T22:35:35</date>
-  <millis>1588775735105</millis>
-  <sequence>72</sequence>
+  <date>2020-05-12T17:12:14</date>
+  <millis>1589274734935</millis>
+  <sequence>78</sequence>
   <logger>ESPlorer.ESPlorer</logger>
   <level>INFO</level>
   <class>ESPlorer.ESPlorer</class>
   <method>log</method>
-  <thread>37</thread>
+  <thread>35</thread>
   <message>recv:w([==[print("Setting Wifi")]==])</message>
 </record>
 <record>
-  <date>2020-05-06T22:35:35</date>
-  <millis>1588775735108</millis>
-  <sequence>73</sequence>
+  <date>2020-05-12T17:12:14</date>
+  <millis>1589274734942</millis>
+  <sequence>79</sequence>
   <logger>ESPlorer.ESPlorer</logger>
   <level>INFO</level>
   <class>ESPlorer.ESPlorer</class>
   <method>log</method>
-  <thread>37</thread>
-  <message>recv:;&lt;CR&gt;&lt;LF&gt;</message>
+  <thread>35</thread>
+  <message>recv:;</message>
 </record>
 <record>
-  <date>2020-05-06T22:35:35</date>
-  <millis>1588775735110</millis>
-  <sequence>74</sequence>
-  <logger>ESPlorer.ESPlorer</logger>
-  <level>INFO</level>
-  <class>ESPlorer.ESPlorer</class>
-  <method>log</method>
-  <thread>37</thread>
-  <message>recv:&gt; </message>
-</record>
-<record>
-  <date>2020-05-06T22:35:35</date>
-  <millis>1588775735122</millis>
-  <sequence>75</sequence>
+  <date>2020-05-12T17:12:14</date>
+  <millis>1589274734962</millis>
+  <sequence>80</sequence>
   <logger>ESPlorer.ESPlorer</logger>
   <level>INFO</level>
   <class>ESPlorer.ESPlorer</class>
@@ -783,9 +838,9 @@
   <message>5</message>
 </record>
 <record>
-  <date>2020-05-06T22:35:35</date>
-  <millis>1588775735123</millis>
-  <sequence>76</sequence>
+  <date>2020-05-12T17:12:14</date>
+  <millis>1589274734963</millis>
+  <sequence>81</sequence>
   <logger>ESPlorer.ESPlorer</logger>
   <level>INFO</level>
   <class>ESPlorer.ESPlorer</class>
@@ -794,42 +849,31 @@
   <message>sending:w([==[wifi.setmode(wifi.STATION)]==]);&lt;CR&gt;&lt;LF&gt;</message>
 </record>
 <record>
-  <date>2020-05-06T22:35:35</date>
-  <millis>1588775735127</millis>
-  <sequence>77</sequence>
+  <date>2020-05-12T17:12:14</date>
+  <millis>1589274734967</millis>
+  <sequence>82</sequence>
   <logger>ESPlorer.ESPlorer</logger>
   <level>INFO</level>
   <class>ESPlorer.ESPlorer</class>
   <method>log</method>
-  <thread>37</thread>
+  <thread>35</thread>
   <message>recv:w([==[wifi.setmode(wifi.STATION)</message>
 </record>
 <record>
-  <date>2020-05-06T22:35:35</date>
-  <millis>1588775735129</millis>
-  <sequence>78</sequence>
+  <date>2020-05-12T17:12:14</date>
+  <millis>1589274734979</millis>
+  <sequence>83</sequence>
   <logger>ESPlorer.ESPlorer</logger>
   <level>INFO</level>
   <class>ESPlorer.ESPlorer</class>
   <method>log</method>
-  <thread>37</thread>
-  <message>recv:]==]);&lt;CR&gt;&lt;LF&gt;</message>
+  <thread>35</thread>
+  <message>recv:]==]);</message>
 </record>
 <record>
-  <date>2020-05-06T22:35:35</date>
-  <millis>1588775735132</millis>
-  <sequence>79</sequence>
-  <logger>ESPlorer.ESPlorer</logger>
-  <level>INFO</level>
-  <class>ESPlorer.ESPlorer</class>
-  <method>log</method>
-  <thread>37</thread>
-  <message>recv:&gt; </message>
-</record>
-<record>
-  <date>2020-05-06T22:35:35</date>
-  <millis>1588775735141</millis>
-  <sequence>80</sequence>
+  <date>2020-05-12T17:12:15</date>
+  <millis>1589274735007</millis>
+  <sequence>84</sequence>
   <logger>ESPlorer.ESPlorer</logger>
   <level>INFO</level>
   <class>ESPlorer.ESPlorer</class>
@@ -838,9 +882,9 @@
   <message>6</message>
 </record>
 <record>
-  <date>2020-05-06T22:35:35</date>
-  <millis>1588775735142</millis>
-  <sequence>81</sequence>
+  <date>2020-05-12T17:12:15</date>
+  <millis>1589274735016</millis>
+  <sequence>85</sequence>
   <logger>ESPlorer.ESPlorer</logger>
   <level>INFO</level>
   <class>ESPlorer.ESPlorer</class>
@@ -849,31 +893,31 @@
   <message>sending:w([==[]==]);&lt;CR&gt;&lt;LF&gt;</message>
 </record>
 <record>
-  <date>2020-05-06T22:35:35</date>
-  <millis>1588775735148</millis>
-  <sequence>82</sequence>
+  <date>2020-05-12T17:12:15</date>
+  <millis>1589274735025</millis>
+  <sequence>86</sequence>
   <logger>ESPlorer.ESPlorer</logger>
   <level>INFO</level>
   <class>ESPlorer.ESPlorer</class>
   <method>log</method>
-  <thread>37</thread>
+  <thread>35</thread>
   <message>recv:w([==[]==]);&lt;CR&gt;&lt;LF&gt;</message>
 </record>
 <record>
-  <date>2020-05-06T22:35:35</date>
-  <millis>1588775735151</millis>
-  <sequence>83</sequence>
+  <date>2020-05-12T17:12:15</date>
+  <millis>1589274735027</millis>
+  <sequence>87</sequence>
   <logger>ESPlorer.ESPlorer</logger>
   <level>INFO</level>
   <class>ESPlorer.ESPlorer</class>
   <method>log</method>
-  <thread>37</thread>
+  <thread>35</thread>
   <message>recv:&gt; </message>
 </record>
 <record>
-  <date>2020-05-06T22:35:35</date>
-  <millis>1588775735162</millis>
-  <sequence>84</sequence>
+  <date>2020-05-12T17:12:15</date>
+  <millis>1589274735092</millis>
+  <sequence>88</sequence>
   <logger>ESPlorer.ESPlorer</logger>
   <level>INFO</level>
   <class>ESPlorer.ESPlorer</class>
@@ -882,9 +926,9 @@
   <message>7</message>
 </record>
 <record>
-  <date>2020-05-06T22:35:35</date>
-  <millis>1588775735163</millis>
-  <sequence>85</sequence>
+  <date>2020-05-12T17:12:15</date>
+  <millis>1589274735096</millis>
+  <sequence>89</sequence>
   <logger>ESPlorer.ESPlorer</logger>
   <level>INFO</level>
   <class>ESPlorer.ESPlorer</class>
@@ -893,31 +937,31 @@
   <message>sending:w([==[station_info={}]==]);&lt;CR&gt;&lt;LF&gt;</message>
 </record>
 <record>
-  <date>2020-05-06T22:35:35</date>
-  <millis>1588775735168</millis>
-  <sequence>86</sequence>
+  <date>2020-05-12T17:12:15</date>
+  <millis>1589274735103</millis>
+  <sequence>90</sequence>
   <logger>ESPlorer.ESPlorer</logger>
   <level>INFO</level>
   <class>ESPlorer.ESPlorer</class>
   <method>log</method>
-  <thread>37</thread>
+  <thread>35</thread>
   <message>recv:w([==[station_info={}]==]);&lt;CR&gt;&lt;LF&gt;</message>
 </record>
 <record>
-  <date>2020-05-06T22:35:35</date>
-  <millis>1588775735172</millis>
-  <sequence>87</sequence>
+  <date>2020-05-12T17:12:15</date>
+  <millis>1589274735112</millis>
+  <sequence>91</sequence>
   <logger>ESPlorer.ESPlorer</logger>
   <level>INFO</level>
   <class>ESPlorer.ESPlorer</class>
   <method>log</method>
-  <thread>37</thread>
+  <thread>35</thread>
   <message>recv:&gt; </message>
 </record>
 <record>
-  <date>2020-05-06T22:35:35</date>
-  <millis>1588775735183</millis>
-  <sequence>88</sequence>
+  <date>2020-05-12T17:12:15</date>
+  <millis>1589274735174</millis>
+  <sequence>92</sequence>
   <logger>ESPlorer.ESPlorer</logger>
   <level>INFO</level>
   <class>ESPlorer.ESPlorer</class>
@@ -926,53 +970,53 @@
   <message>8</message>
 </record>
 <record>
-  <date>2020-05-06T22:35:35</date>
-  <millis>1588775735183</millis>
-  <sequence>89</sequence>
+  <date>2020-05-12T17:12:15</date>
+  <millis>1589274735182</millis>
+  <sequence>93</sequence>
   <logger>ESPlorer.ESPlorer</logger>
   <level>INFO</level>
   <class>ESPlorer.ESPlorer</class>
   <method>log</method>
   <thread>16</thread>
-  <message>sending:w([==[station_info.ssid="Isprition"]==]);&lt;CR&gt;&lt;LF&gt;</message>
+  <message>sending:w([==[station_info.ssid="Insprition"]==]);&lt;CR&gt;&lt;LF&gt;</message>
 </record>
 <record>
-  <date>2020-05-06T22:35:35</date>
-  <millis>1588775735188</millis>
-  <sequence>90</sequence>
+  <date>2020-05-12T17:12:15</date>
+  <millis>1589274735189</millis>
+  <sequence>94</sequence>
   <logger>ESPlorer.ESPlorer</logger>
   <level>INFO</level>
   <class>ESPlorer.ESPlorer</class>
   <method>log</method>
-  <thread>37</thread>
-  <message>recv:w([==[station_info.ssid="Ispriti</message>
+  <thread>35</thread>
+  <message>recv:w([==[stat</message>
 </record>
 <record>
-  <date>2020-05-06T22:35:35</date>
-  <millis>1588775735190</millis>
-  <sequence>91</sequence>
+  <date>2020-05-12T17:12:15</date>
+  <millis>1589274735195</millis>
+  <sequence>95</sequence>
   <logger>ESPlorer.ESPlorer</logger>
   <level>INFO</level>
   <class>ESPlorer.ESPlorer</class>
   <method>log</method>
-  <thread>37</thread>
-  <message>recv:on"]==]);&lt;CR&gt;&lt;LF&gt;</message>
+  <thread>35</thread>
+  <message>recv:ion_info.ssid="Insprition"]==]);&lt;CR&gt;&lt;LF&gt;</message>
 </record>
 <record>
-  <date>2020-05-06T22:35:35</date>
-  <millis>1588775735194</millis>
-  <sequence>92</sequence>
+  <date>2020-05-12T17:12:15</date>
+  <millis>1589274735197</millis>
+  <sequence>96</sequence>
   <logger>ESPlorer.ESPlorer</logger>
   <level>INFO</level>
   <class>ESPlorer.ESPlorer</class>
   <method>log</method>
-  <thread>37</thread>
+  <thread>35</thread>
   <message>recv:&gt; </message>
 </record>
 <record>
-  <date>2020-05-06T22:35:35</date>
-  <millis>1588775735210</millis>
-  <sequence>93</sequence>
+  <date>2020-05-12T17:12:15</date>
+  <millis>1589274735223</millis>
+  <sequence>97</sequence>
   <logger>ESPlorer.ESPlorer</logger>
   <level>INFO</level>
   <class>ESPlorer.ESPlorer</class>
@@ -981,9 +1025,9 @@
   <message>9</message>
 </record>
 <record>
-  <date>2020-05-06T22:35:35</date>
-  <millis>1588775735211</millis>
-  <sequence>94</sequence>
+  <date>2020-05-12T17:12:15</date>
+  <millis>1589274735233</millis>
+  <sequence>98</sequence>
   <logger>ESPlorer.ESPlorer</logger>
   <level>INFO</level>
   <class>ESPlorer.ESPlorer</class>
@@ -992,53 +1036,42 @@
   <message>sending:w([==[station_info.pwd="P-6h6662"]==]);&lt;CR&gt;&lt;LF&gt;</message>
 </record>
 <record>
-  <date>2020-05-06T22:35:35</date>
-  <millis>1588775735215</millis>
-  <sequence>95</sequence>
+  <date>2020-05-12T17:12:15</date>
+  <millis>1589274735243</millis>
+  <sequence>99</sequence>
   <logger>ESPlorer.ESPlorer</logger>
   <level>INFO</level>
   <class>ESPlorer.ESPlorer</class>
   <method>log</method>
-  <thread>37</thread>
+  <thread>35</thread>
   <message>recv:w([==[station_info.pwd="P-6h6662</message>
 </record>
 <record>
-  <date>2020-05-06T22:35:35</date>
-  <millis>1588775735216</millis>
-  <sequence>96</sequence>
+  <date>2020-05-12T17:12:15</date>
+  <millis>1589274735245</millis>
+  <sequence>100</sequence>
   <logger>ESPlorer.ESPlorer</logger>
   <level>INFO</level>
   <class>ESPlorer.ESPlorer</class>
   <method>log</method>
-  <thread>37</thread>
-  <message>recv:"]==]);</message>
+  <thread>35</thread>
+  <message>recv:"]==]);&lt;CR&gt;&lt;LF&gt;</message>
 </record>
 <record>
-  <date>2020-05-06T22:35:35</date>
-  <millis>1588775735218</millis>
-  <sequence>97</sequence>
+  <date>2020-05-12T17:12:15</date>
+  <millis>1589274735249</millis>
+  <sequence>101</sequence>
   <logger>ESPlorer.ESPlorer</logger>
   <level>INFO</level>
   <class>ESPlorer.ESPlorer</class>
   <method>log</method>
-  <thread>37</thread>
-  <message>recv:&lt;CR&gt;&lt;LF&gt;</message>
-</record>
-<record>
-  <date>2020-05-06T22:35:35</date>
-  <millis>1588775735224</millis>
-  <sequence>98</sequence>
-  <logger>ESPlorer.ESPlorer</logger>
-  <level>INFO</level>
-  <class>ESPlorer.ESPlorer</class>
-  <method>log</method>
-  <thread>37</thread>
+  <thread>35</thread>
   <message>recv:&gt; </message>
 </record>
 <record>
-  <date>2020-05-06T22:35:35</date>
-  <millis>1588775735232</millis>
-  <sequence>99</sequence>
+  <date>2020-05-12T17:12:15</date>
+  <millis>1589274735307</millis>
+  <sequence>102</sequence>
   <logger>ESPlorer.ESPlorer</logger>
   <level>INFO</level>
   <class>ESPlorer.ESPlorer</class>
@@ -1047,9 +1080,9 @@
   <message>10</message>
 </record>
 <record>
-  <date>2020-05-06T22:35:35</date>
-  <millis>1588775735235</millis>
-  <sequence>100</sequence>
+  <date>2020-05-12T17:12:15</date>
+  <millis>1589274735309</millis>
+  <sequence>103</sequence>
   <logger>ESPlorer.ESPlorer</logger>
   <level>INFO</level>
   <class>ESPlorer.ESPlorer</class>
@@ -1058,31 +1091,31 @@
   <message>sending:w([==[]==]);&lt;CR&gt;&lt;LF&gt;</message>
 </record>
 <record>
-  <date>2020-05-06T22:35:35</date>
-  <millis>1588775735242</millis>
-  <sequence>101</sequence>
+  <date>2020-05-12T17:12:15</date>
+  <millis>1589274735315</millis>
+  <sequence>104</sequence>
   <logger>ESPlorer.ESPlorer</logger>
   <level>INFO</level>
   <class>ESPlorer.ESPlorer</class>
   <method>log</method>
-  <thread>37</thread>
+  <thread>35</thread>
   <message>recv:w([==[]==]);&lt;CR&gt;&lt;LF&gt;</message>
 </record>
 <record>
-  <date>2020-05-06T22:35:35</date>
-  <millis>1588775735245</millis>
-  <sequence>102</sequence>
+  <date>2020-05-12T17:12:15</date>
+  <millis>1589274735320</millis>
+  <sequence>105</sequence>
   <logger>ESPlorer.ESPlorer</logger>
   <level>INFO</level>
   <class>ESPlorer.ESPlorer</class>
   <method>log</method>
-  <thread>37</thread>
+  <thread>35</thread>
   <message>recv:&gt; </message>
 </record>
 <record>
-  <date>2020-05-06T22:35:35</date>
-  <millis>1588775735261</millis>
-  <sequence>103</sequence>
+  <date>2020-05-12T17:12:15</date>
+  <millis>1589274735409</millis>
+  <sequence>106</sequence>
   <logger>ESPlorer.ESPlorer</logger>
   <level>INFO</level>
   <class>ESPlorer.ESPlorer</class>
@@ -1091,53 +1124,42 @@
   <message>11</message>
 </record>
 <record>
-  <date>2020-05-06T22:35:35</date>
-  <millis>1588775735262</millis>
-  <sequence>104</sequence>
-  <logger>ESPlorer.ESPlorer</logger>
-  <level>INFO</level>
-  <class>ESPlorer.ESPlorer</class>
-  <method>log</method>
-  <thread>16</thread>
-  <message>sending:w([==[print("Connecting...")]==]);&lt;CR&gt;&lt;LF&gt;</message>
-</record>
-<record>
-  <date>2020-05-06T22:35:35</date>
-  <millis>1588775735267</millis>
-  <sequence>105</sequence>
-  <logger>ESPlorer.ESPlorer</logger>
-  <level>INFO</level>
-  <class>ESPlorer.ESPlorer</class>
-  <method>log</method>
-  <thread>37</thread>
-  <message>recv:w([==[print("Connecting...")]==]</message>
-</record>
-<record>
-  <date>2020-05-06T22:35:35</date>
-  <millis>1588775735269</millis>
-  <sequence>106</sequence>
-  <logger>ESPlorer.ESPlorer</logger>
-  <level>INFO</level>
-  <class>ESPlorer.ESPlorer</class>
-  <method>log</method>
-  <thread>37</thread>
-  <message>recv:);&lt;CR&gt;&lt;LF&gt;</message>
-</record>
-<record>
-  <date>2020-05-06T22:35:35</date>
-  <millis>1588775735271</millis>
+  <date>2020-05-12T17:12:15</date>
+  <millis>1589274735416</millis>
   <sequence>107</sequence>
   <logger>ESPlorer.ESPlorer</logger>
   <level>INFO</level>
   <class>ESPlorer.ESPlorer</class>
   <method>log</method>
-  <thread>37</thread>
-  <message>recv:&gt; </message>
+  <thread>16</thread>
+  <message>sending:w([==[print("Configurating...")]==]);&lt;CR&gt;&lt;LF&gt;</message>
 </record>
 <record>
-  <date>2020-05-06T22:35:35</date>
-  <millis>1588775735287</millis>
+  <date>2020-05-12T17:12:15</date>
+  <millis>1589274735426</millis>
   <sequence>108</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>35</thread>
+  <message>recv:w([==[print("Configurating...")]</message>
+</record>
+<record>
+  <date>2020-05-12T17:12:15</date>
+  <millis>1589274735432</millis>
+  <sequence>109</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>35</thread>
+  <message>recv:==]);</message>
+</record>
+<record>
+  <date>2020-05-12T17:12:15</date>
+  <millis>1589274735458</millis>
+  <sequence>110</sequence>
   <logger>ESPlorer.ESPlorer</logger>
   <level>INFO</level>
   <class>ESPlorer.ESPlorer</class>
@@ -1146,9 +1168,9 @@
   <message>12</message>
 </record>
 <record>
-  <date>2020-05-06T22:35:35</date>
-  <millis>1588775735288</millis>
-  <sequence>109</sequence>
+  <date>2020-05-12T17:12:15</date>
+  <millis>1589274735464</millis>
+  <sequence>111</sequence>
   <logger>ESPlorer.ESPlorer</logger>
   <level>INFO</level>
   <class>ESPlorer.ESPlorer</class>
@@ -1157,31 +1179,31 @@
   <message>sending:w([==[]==]);&lt;CR&gt;&lt;LF&gt;</message>
 </record>
 <record>
-  <date>2020-05-06T22:35:35</date>
-  <millis>1588775735292</millis>
-  <sequence>110</sequence>
+  <date>2020-05-12T17:12:15</date>
+  <millis>1589274735470</millis>
+  <sequence>112</sequence>
   <logger>ESPlorer.ESPlorer</logger>
   <level>INFO</level>
   <class>ESPlorer.ESPlorer</class>
   <method>log</method>
-  <thread>37</thread>
+  <thread>35</thread>
   <message>recv:w([==[]==]);&lt;CR&gt;&lt;LF&gt;</message>
 </record>
 <record>
-  <date>2020-05-06T22:35:35</date>
-  <millis>1588775735297</millis>
-  <sequence>111</sequence>
+  <date>2020-05-12T17:12:15</date>
+  <millis>1589274735481</millis>
+  <sequence>113</sequence>
   <logger>ESPlorer.ESPlorer</logger>
   <level>INFO</level>
   <class>ESPlorer.ESPlorer</class>
   <method>log</method>
-  <thread>37</thread>
+  <thread>35</thread>
   <message>recv:&gt; </message>
 </record>
 <record>
-  <date>2020-05-06T22:35:35</date>
-  <millis>1588775735315</millis>
-  <sequence>112</sequence>
+  <date>2020-05-12T17:12:15</date>
+  <millis>1589274735542</millis>
+  <sequence>114</sequence>
   <logger>ESPlorer.ESPlorer</logger>
   <level>INFO</level>
   <class>ESPlorer.ESPlorer</class>
@@ -1190,42 +1212,42 @@
   <message>13</message>
 </record>
 <record>
-  <date>2020-05-06T22:35:35</date>
-  <millis>1588775735317</millis>
-  <sequence>113</sequence>
-  <logger>ESPlorer.ESPlorer</logger>
-  <level>INFO</level>
-  <class>ESPlorer.ESPlorer</class>
-  <method>log</method>
-  <thread>16</thread>
-  <message>sending:w([==[]==]);&lt;CR&gt;&lt;LF&gt;</message>
-</record>
-<record>
-  <date>2020-05-06T22:35:35</date>
-  <millis>1588775735320</millis>
-  <sequence>114</sequence>
-  <logger>ESPlorer.ESPlorer</logger>
-  <level>INFO</level>
-  <class>ESPlorer.ESPlorer</class>
-  <method>log</method>
-  <thread>37</thread>
-  <message>recv:w([==[]==]);&lt;CR&gt;&lt;LF&gt;</message>
-</record>
-<record>
-  <date>2020-05-06T22:35:35</date>
-  <millis>1588775735325</millis>
+  <date>2020-05-12T17:12:15</date>
+  <millis>1589274735548</millis>
   <sequence>115</sequence>
   <logger>ESPlorer.ESPlorer</logger>
   <level>INFO</level>
   <class>ESPlorer.ESPlorer</class>
   <method>log</method>
-  <thread>37</thread>
-  <message>recv:&gt; </message>
+  <thread>16</thread>
+  <message>sending:w([==[wifi.sta.config(station_info)]==]);&lt;CR&gt;&lt;LF&gt;</message>
 </record>
 <record>
-  <date>2020-05-06T22:35:35</date>
-  <millis>1588775735342</millis>
+  <date>2020-05-12T17:12:15</date>
+  <millis>1589274735556</millis>
   <sequence>116</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>35</thread>
+  <message>recv:w([==[wifi.sta.config(station_in</message>
+</record>
+<record>
+  <date>2020-05-12T17:12:15</date>
+  <millis>1589274735565</millis>
+  <sequence>117</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>35</thread>
+  <message>recv:fo)]==]);</message>
+</record>
+<record>
+  <date>2020-05-12T17:12:15</date>
+  <millis>1589274735580</millis>
+  <sequence>118</sequence>
   <logger>ESPlorer.ESPlorer</logger>
   <level>INFO</level>
   <class>ESPlorer.ESPlorer</class>
@@ -1234,9 +1256,9 @@
   <message>14</message>
 </record>
 <record>
-  <date>2020-05-06T22:35:35</date>
-  <millis>1588775735346</millis>
-  <sequence>117</sequence>
+  <date>2020-05-12T17:12:15</date>
+  <millis>1589274735580</millis>
+  <sequence>119</sequence>
   <logger>ESPlorer.ESPlorer</logger>
   <level>INFO</level>
   <class>ESPlorer.ESPlorer</class>
@@ -1245,31 +1267,31 @@
   <message>sending:w([==[]==]);&lt;CR&gt;&lt;LF&gt;</message>
 </record>
 <record>
-  <date>2020-05-06T22:35:35</date>
-  <millis>1588775735351</millis>
-  <sequence>118</sequence>
+  <date>2020-05-12T17:12:15</date>
+  <millis>1589274735584</millis>
+  <sequence>120</sequence>
   <logger>ESPlorer.ESPlorer</logger>
   <level>INFO</level>
   <class>ESPlorer.ESPlorer</class>
   <method>log</method>
-  <thread>37</thread>
+  <thread>35</thread>
   <message>recv:w([==[]==]);&lt;CR&gt;&lt;LF&gt;</message>
 </record>
 <record>
-  <date>2020-05-06T22:35:35</date>
-  <millis>1588775735355</millis>
-  <sequence>119</sequence>
+  <date>2020-05-12T17:12:15</date>
+  <millis>1589274735594</millis>
+  <sequence>121</sequence>
   <logger>ESPlorer.ESPlorer</logger>
   <level>INFO</level>
   <class>ESPlorer.ESPlorer</class>
   <method>log</method>
-  <thread>37</thread>
+  <thread>35</thread>
   <message>recv:&gt; </message>
 </record>
 <record>
-  <date>2020-05-06T22:35:35</date>
-  <millis>1588775735368</millis>
-  <sequence>120</sequence>
+  <date>2020-05-12T17:12:15</date>
+  <millis>1589274735656</millis>
+  <sequence>122</sequence>
   <logger>ESPlorer.ESPlorer</logger>
   <level>INFO</level>
   <class>ESPlorer.ESPlorer</class>
@@ -1278,53 +1300,42 @@
   <message>15</message>
 </record>
 <record>
-  <date>2020-05-06T22:35:35</date>
-  <millis>1588775735369</millis>
-  <sequence>121</sequence>
-  <logger>ESPlorer.ESPlorer</logger>
-  <level>INFO</level>
-  <class>ESPlorer.ESPlorer</class>
-  <method>log</method>
-  <thread>16</thread>
-  <message>sending:w([==[wifi.connect(station_info)]==]);&lt;CR&gt;&lt;LF&gt;</message>
-</record>
-<record>
-  <date>2020-05-06T22:35:35</date>
-  <millis>1588775735373</millis>
-  <sequence>122</sequence>
-  <logger>ESPlorer.ESPlorer</logger>
-  <level>INFO</level>
-  <class>ESPlorer.ESPlorer</class>
-  <method>log</method>
-  <thread>37</thread>
-  <message>recv:w([==[wifi.connect(station_info)</message>
-</record>
-<record>
-  <date>2020-05-06T22:35:35</date>
-  <millis>1588775735375</millis>
+  <date>2020-05-12T17:12:15</date>
+  <millis>1589274735660</millis>
   <sequence>123</sequence>
   <logger>ESPlorer.ESPlorer</logger>
   <level>INFO</level>
   <class>ESPlorer.ESPlorer</class>
   <method>log</method>
-  <thread>37</thread>
-  <message>recv:]==]);&lt;CR&gt;&lt;LF&gt;</message>
+  <thread>16</thread>
+  <message>sending:w([==[print("Connecting...")]==]);&lt;CR&gt;&lt;LF&gt;</message>
 </record>
 <record>
-  <date>2020-05-06T22:35:35</date>
-  <millis>1588775735378</millis>
+  <date>2020-05-12T17:12:15</date>
+  <millis>1589274735666</millis>
   <sequence>124</sequence>
   <logger>ESPlorer.ESPlorer</logger>
   <level>INFO</level>
   <class>ESPlorer.ESPlorer</class>
   <method>log</method>
-  <thread>37</thread>
-  <message>recv:&gt; </message>
+  <thread>35</thread>
+  <message>recv:w([==[print("Connecting...")]==]</message>
 </record>
 <record>
-  <date>2020-05-06T22:35:35</date>
-  <millis>1588775735388</millis>
+  <date>2020-05-12T17:12:15</date>
+  <millis>1589274735673</millis>
   <sequence>125</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>35</thread>
+  <message>recv:);</message>
+</record>
+<record>
+  <date>2020-05-12T17:12:15</date>
+  <millis>1589274735704</millis>
+  <sequence>126</sequence>
   <logger>ESPlorer.ESPlorer</logger>
   <level>INFO</level>
   <class>ESPlorer.ESPlorer</class>
@@ -1333,9 +1344,9 @@
   <message>16</message>
 </record>
 <record>
-  <date>2020-05-06T22:35:35</date>
-  <millis>1588775735389</millis>
-  <sequence>126</sequence>
+  <date>2020-05-12T17:12:15</date>
+  <millis>1589274735707</millis>
+  <sequence>127</sequence>
   <logger>ESPlorer.ESPlorer</logger>
   <level>INFO</level>
   <class>ESPlorer.ESPlorer</class>
@@ -1344,31 +1355,31 @@
   <message>sending:w([==[]==]);&lt;CR&gt;&lt;LF&gt;</message>
 </record>
 <record>
-  <date>2020-05-06T22:35:35</date>
-  <millis>1588775735395</millis>
-  <sequence>127</sequence>
-  <logger>ESPlorer.ESPlorer</logger>
-  <level>INFO</level>
-  <class>ESPlorer.ESPlorer</class>
-  <method>log</method>
-  <thread>37</thread>
-  <message>recv:w([==[]==]);&lt;CR&gt;&lt;LF&gt;</message>
-</record>
-<record>
-  <date>2020-05-06T22:35:35</date>
-  <millis>1588775735398</millis>
+  <date>2020-05-12T17:12:15</date>
+  <millis>1589274735712</millis>
   <sequence>128</sequence>
   <logger>ESPlorer.ESPlorer</logger>
   <level>INFO</level>
   <class>ESPlorer.ESPlorer</class>
   <method>log</method>
-  <thread>37</thread>
+  <thread>35</thread>
+  <message>recv:w([==[]==]);&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2020-05-12T17:12:15</date>
+  <millis>1589274735717</millis>
+  <sequence>129</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>35</thread>
   <message>recv:&gt; </message>
 </record>
 <record>
-  <date>2020-05-06T22:35:35</date>
-  <millis>1588775735406</millis>
-  <sequence>129</sequence>
+  <date>2020-05-12T17:12:15</date>
+  <millis>1589274735778</millis>
+  <sequence>130</sequence>
   <logger>ESPlorer.ESPlorer</logger>
   <level>INFO</level>
   <class>ESPlorer.ESPlorer</class>
@@ -1377,52 +1388,41 @@
   <message>17</message>
 </record>
 <record>
-  <date>2020-05-06T22:35:35</date>
-  <millis>1588775735407</millis>
-  <sequence>130</sequence>
-  <logger>ESPlorer.ESPlorer</logger>
-  <level>INFO</level>
-  <class>ESPlorer.ESPlorer</class>
-  <method>log</method>
-  <thread>16</thread>
-  <message>sending:w([==[--this need a connection checking program]==]);&lt;CR&gt;&lt;LF&gt;</message>
-</record>
-<record>
-  <date>2020-05-06T22:35:35</date>
-  <millis>1588775735411</millis>
+  <date>2020-05-12T17:12:15</date>
+  <millis>1589274735779</millis>
   <sequence>131</sequence>
   <logger>ESPlorer.ESPlorer</logger>
   <level>INFO</level>
   <class>ESPlorer.ESPlorer</class>
   <method>log</method>
-  <thread>37</thread>
-  <message>recv:w([==[--this need a connection c</message>
+  <thread>16</thread>
+  <message>sending:w([==[wifi.sta.connect()]==]);&lt;CR&gt;&lt;LF&gt;</message>
 </record>
 <record>
-  <date>2020-05-06T22:35:35</date>
-  <millis>1588775735414</millis>
+  <date>2020-05-12T17:12:15</date>
+  <millis>1589274735782</millis>
   <sequence>132</sequence>
   <logger>ESPlorer.ESPlorer</logger>
   <level>INFO</level>
   <class>ESPlorer.ESPlorer</class>
   <method>log</method>
-  <thread>37</thread>
-  <message>recv:hecking program]==]);&lt;CR&gt;&lt;LF&gt;</message>
+  <thread>35</thread>
+  <message>recv:w([==[wifi.sta.connect()]==]);&lt;CR&gt;&lt;LF&gt;</message>
 </record>
 <record>
-  <date>2020-05-06T22:35:35</date>
-  <millis>1588775735418</millis>
+  <date>2020-05-12T17:12:15</date>
+  <millis>1589274735789</millis>
   <sequence>133</sequence>
   <logger>ESPlorer.ESPlorer</logger>
   <level>INFO</level>
   <class>ESPlorer.ESPlorer</class>
   <method>log</method>
-  <thread>37</thread>
+  <thread>35</thread>
   <message>recv:&gt; </message>
 </record>
 <record>
-  <date>2020-05-06T22:35:35</date>
-  <millis>1588775735429</millis>
+  <date>2020-05-12T17:12:15</date>
+  <millis>1589274735827</millis>
   <sequence>134</sequence>
   <logger>ESPlorer.ESPlorer</logger>
   <level>INFO</level>
@@ -1432,2154 +1432,97 @@
   <message>18</message>
 </record>
 <record>
-  <date>2020-05-06T22:35:35</date>
-  <millis>1588775735429</millis>
+  <date>2020-05-12T17:12:15</date>
+  <millis>1589274735828</millis>
   <sequence>135</sequence>
   <logger>ESPlorer.ESPlorer</logger>
   <level>INFO</level>
   <class>ESPlorer.ESPlorer</class>
   <method>log</method>
   <thread>16</thread>
-  <message>sending:file.close();&lt;CR&gt;&lt;LF&gt;</message>
+  <message>sending:w([==[--this need a connection checking program]==]);&lt;CR&gt;&lt;LF&gt;</message>
 </record>
 <record>
-  <date>2020-05-06T22:35:35</date>
-  <millis>1588775735432</millis>
+  <date>2020-05-12T17:12:15</date>
+  <millis>1589274735832</millis>
   <sequence>136</sequence>
   <logger>ESPlorer.ESPlorer</logger>
   <level>INFO</level>
   <class>ESPlorer.ESPlorer</class>
   <method>log</method>
-  <thread>37</thread>
-  <message>recv:file.close();&lt;CR&gt;&lt;LF&gt;</message>
+  <thread>35</thread>
+  <message>recv:w([==[--this need a connection c</message>
 </record>
 <record>
-  <date>2020-05-06T22:35:35</date>
-  <millis>1588775735440</millis>
+  <date>2020-05-12T17:12:15</date>
+  <millis>1589274735836</millis>
   <sequence>137</sequence>
   <logger>ESPlorer.ESPlorer</logger>
   <level>INFO</level>
   <class>ESPlorer.ESPlorer</class>
   <method>log</method>
-  <thread>37</thread>
-  <message>recv:&gt; </message>
+  <thread>35</thread>
+  <message>recv:hecking program]==]);&lt;CR&gt;&lt;LF&gt;</message>
 </record>
 <record>
-  <date>2020-05-06T22:35:35</date>
-  <millis>1588775735447</millis>
+  <date>2020-05-12T17:12:15</date>
+  <millis>1589274735846</millis>
   <sequence>138</sequence>
   <logger>ESPlorer.ESPlorer</logger>
   <level>INFO</level>
   <class>ESPlorer.ESPlorer</class>
   <method>log</method>
-  <thread>16</thread>
-  <message>19</message>
+  <thread>35</thread>
+  <message>recv:&gt; </message>
 </record>
 <record>
-  <date>2020-05-06T22:35:35</date>
-  <millis>1588775735448</millis>
+  <date>2020-05-12T17:12:15</date>
+  <millis>1589274735898</millis>
   <sequence>139</sequence>
   <logger>ESPlorer.ESPlorer</logger>
   <level>INFO</level>
   <class>ESPlorer.ESPlorer</class>
   <method>log</method>
   <thread>16</thread>
-  <message>sending:dofile("init.lua");&lt;CR&gt;&lt;LF&gt;</message>
+  <message>19</message>
 </record>
 <record>
-  <date>2020-05-06T22:35:35</date>
-  <millis>1588775735452</millis>
+  <date>2020-05-12T17:12:15</date>
+  <millis>1589274735904</millis>
   <sequence>140</sequence>
   <logger>ESPlorer.ESPlorer</logger>
   <level>INFO</level>
   <class>ESPlorer.ESPlorer</class>
   <method>log</method>
-  <thread>37</thread>
-  <message>recv:dofile("init.lua");&lt;CR&gt;&lt;LF&gt;</message>
+  <thread>16</thread>
+  <message>sending:file.close();&lt;CR&gt;&lt;LF&gt;</message>
 </record>
 <record>
-  <date>2020-05-06T22:35:35</date>
-  <millis>1588775735468</millis>
+  <date>2020-05-12T17:12:15</date>
+  <millis>1589274735915</millis>
   <sequence>141</sequence>
   <logger>ESPlorer.ESPlorer</logger>
   <level>INFO</level>
   <class>ESPlorer.ESPlorer</class>
   <method>log</method>
-  <thread>37</thread>
-  <message>Operation done. Duration = 474 ms</message>
+  <thread>35</thread>
+  <message>recv:file.close();&lt;CR&gt;&lt;LF&gt;</message>
 </record>
 <record>
-  <date>2020-05-06T22:36:36</date>
-  <millis>1588775796653</millis>
+  <date>2020-05-12T17:12:15</date>
+  <millis>1589274735925</millis>
   <sequence>142</sequence>
   <logger>ESPlorer.ESPlorer</logger>
   <level>INFO</level>
   <class>ESPlorer.ESPlorer</class>
   <method>log</method>
-  <thread>16</thread>
-  <message>We save known file init.lua</message>
+  <thread>35</thread>
+  <message>recv:&gt; </message>
 </record>
 <record>
-  <date>2020-05-06T22:36:36</date>
-  <millis>1588775796653</millis>
+  <date>2020-05-12T17:12:15</date>
+  <millis>1589274735970</millis>
   <sequence>143</sequence>
-  <logger>ESPlorer.ESPlorer</logger>
-  <level>INFO</level>
-  <class>ESPlorer.ESPlorer</class>
-  <method>log</method>
-  <thread>16</thread>
-  <message>Try to saving file init.lua ...</message>
-</record>
-<record>
-  <date>2020-05-06T22:36:36</date>
-  <millis>1588775796654</millis>
-  <sequence>144</sequence>
-  <logger>ESPlorer.ESPlorer</logger>
-  <level>INFO</level>
-  <class>ESPlorer.ESPlorer</class>
-  <method>log</method>
-  <thread>16</thread>
-  <message>Save file init.lua: Success.</message>
-</record>
-<record>
-  <date>2020-05-06T22:36:36</date>
-  <millis>1588775796725</millis>
-  <sequence>145</sequence>
-  <logger>ESPlorer.ESPlorer</logger>
-  <level>INFO</level>
-  <class>ESPlorer.ESPlorer</class>
-  <method>log</method>
-  <thread>16</thread>
-  <message>We save known file init.lua</message>
-</record>
-<record>
-  <date>2020-05-06T22:36:36</date>
-  <millis>1588775796725</millis>
-  <sequence>146</sequence>
-  <logger>ESPlorer.ESPlorer</logger>
-  <level>INFO</level>
-  <class>ESPlorer.ESPlorer</class>
-  <method>log</method>
-  <thread>16</thread>
-  <message>Try to saving file init.lua ...</message>
-</record>
-<record>
-  <date>2020-05-06T22:36:36</date>
-  <millis>1588775796725</millis>
-  <sequence>147</sequence>
-  <logger>ESPlorer.ESPlorer</logger>
-  <level>INFO</level>
-  <class>ESPlorer.ESPlorer</class>
-  <method>log</method>
-  <thread>16</thread>
-  <message>Save file init.lua: Success.</message>
-</record>
-<record>
-  <date>2020-05-06T22:36:36</date>
-  <millis>1588775796726</millis>
-  <sequence>148</sequence>
-  <logger>ESPlorer.ESPlorer</logger>
-  <level>INFO</level>
-  <class>ESPlorer.ESPlorer</class>
-  <method>log</method>
-  <thread>16</thread>
-  <message>FileSaveESP: Try to save file to ESP...</message>
-</record>
-<record>
-  <date>2020-05-06T22:36:36</date>
-  <millis>1588775796736</millis>
-  <sequence>149</sequence>
-  <logger>ESPlorer.ESPlorer</logger>
-  <level>INFO</level>
-  <class>ESPlorer.ESPlorer</class>
-  <method>log</method>
-  <thread>16</thread>
-  <message>DataSender: start "Smart Mode"</message>
-</record>
-<record>
-  <date>2020-05-06T22:36:36</date>
-  <millis>1588775796738</millis>
-  <sequence>150</sequence>
-  <logger>ESPlorer.ESPlorer</logger>
-  <level>INFO</level>
-  <class>ESPlorer.ESPlorer</class>
-  <method>log</method>
-  <thread>16</thread>
-  <message>FileSaveESP: Starting...</message>
-</record>
-<record>
-  <date>2020-05-06T22:36:36</date>
-  <millis>1588775796750</millis>
-  <sequence>151</sequence>
-  <logger>ESPlorer.ESPlorer</logger>
-  <level>INFO</level>
-  <class>ESPlorer.ESPlorer</class>
-  <method>log</method>
-  <thread>16</thread>
-  <message>0</message>
-</record>
-<record>
-  <date>2020-05-06T22:36:36</date>
-  <millis>1588775796750</millis>
-  <sequence>152</sequence>
-  <logger>ESPlorer.ESPlorer</logger>
-  <level>INFO</level>
-  <class>ESPlorer.ESPlorer</class>
-  <method>log</method>
-  <thread>16</thread>
-  <message>sending:file.remove("init.lua");&lt;CR&gt;&lt;LF&gt;</message>
-</record>
-<record>
-  <date>2020-05-06T22:36:36</date>
-  <millis>1588775796754</millis>
-  <sequence>153</sequence>
-  <logger>ESPlorer.ESPlorer</logger>
-  <level>INFO</level>
-  <class>ESPlorer.ESPlorer</class>
-  <method>log</method>
-  <thread>39</thread>
-  <message>recv:file.remove("init.lua");&lt;CR&gt;&lt;LF&gt;</message>
-</record>
-<record>
-  <date>2020-05-06T22:36:36</date>
-  <millis>1588775796764</millis>
-  <sequence>154</sequence>
-  <logger>ESPlorer.ESPlorer</logger>
-  <level>INFO</level>
-  <class>ESPlorer.ESPlorer</class>
-  <method>log</method>
-  <thread>39</thread>
-  <message>recv:&gt; </message>
-</record>
-<record>
-  <date>2020-05-06T22:36:36</date>
-  <millis>1588775796769</millis>
-  <sequence>155</sequence>
-  <logger>ESPlorer.ESPlorer</logger>
-  <level>INFO</level>
-  <class>ESPlorer.ESPlorer</class>
-  <method>log</method>
-  <thread>16</thread>
-  <message>1</message>
-</record>
-<record>
-  <date>2020-05-06T22:36:36</date>
-  <millis>1588775796770</millis>
-  <sequence>156</sequence>
-  <logger>ESPlorer.ESPlorer</logger>
-  <level>INFO</level>
-  <class>ESPlorer.ESPlorer</class>
-  <method>log</method>
-  <thread>16</thread>
-  <message>sending:file.open("init.lua","w+");&lt;CR&gt;&lt;LF&gt;</message>
-</record>
-<record>
-  <date>2020-05-06T22:36:36</date>
-  <millis>1588775796775</millis>
-  <sequence>157</sequence>
-  <logger>ESPlorer.ESPlorer</logger>
-  <level>INFO</level>
-  <class>ESPlorer.ESPlorer</class>
-  <method>log</method>
-  <thread>39</thread>
-  <message>recv:file.open("init.lua","w+");&lt;CR&gt;&lt;LF&gt;</message>
-</record>
-<record>
-  <date>2020-05-06T22:36:36</date>
-  <millis>1588775796787</millis>
-  <sequence>158</sequence>
-  <logger>ESPlorer.ESPlorer</logger>
-  <level>INFO</level>
-  <class>ESPlorer.ESPlorer</class>
-  <method>log</method>
-  <thread>16</thread>
-  <message>2</message>
-</record>
-<record>
-  <date>2020-05-06T22:36:36</date>
-  <millis>1588775796789</millis>
-  <sequence>159</sequence>
-  <logger>ESPlorer.ESPlorer</logger>
-  <level>INFO</level>
-  <class>ESPlorer.ESPlorer</class>
-  <method>log</method>
-  <thread>16</thread>
-  <message>sending:w = file.writeline&lt;CR&gt;&lt;LF&gt;</message>
-</record>
-<record>
-  <date>2020-05-06T22:36:36</date>
-  <millis>1588775796804</millis>
-  <sequence>160</sequence>
-  <logger>ESPlorer.ESPlorer</logger>
-  <level>INFO</level>
-  <class>ESPlorer.ESPlorer</class>
-  <method>log</method>
-  <thread>39</thread>
-  <message>recv:&gt; w = file.writeline&lt;CR&gt;&lt;LF&gt;</message>
-</record>
-<record>
-  <date>2020-05-06T22:36:36</date>
-  <millis>1588775796807</millis>
-  <sequence>161</sequence>
-  <logger>ESPlorer.ESPlorer</logger>
-  <level>INFO</level>
-  <class>ESPlorer.ESPlorer</class>
-  <method>log</method>
-  <thread>39</thread>
-  <message>recv:&gt; </message>
-</record>
-<record>
-  <date>2020-05-06T22:36:36</date>
-  <millis>1588775796817</millis>
-  <sequence>162</sequence>
-  <logger>ESPlorer.ESPlorer</logger>
-  <level>INFO</level>
-  <class>ESPlorer.ESPlorer</class>
-  <method>log</method>
-  <thread>16</thread>
-  <message>3</message>
-</record>
-<record>
-  <date>2020-05-06T22:36:36</date>
-  <millis>1588775796819</millis>
-  <sequence>163</sequence>
-  <logger>ESPlorer.ESPlorer</logger>
-  <level>INFO</level>
-  <class>ESPlorer.ESPlorer</class>
-  <method>log</method>
-  <thread>16</thread>
-  <message>sending:w([==[]==]);&lt;CR&gt;&lt;LF&gt;</message>
-</record>
-<record>
-  <date>2020-05-06T22:36:36</date>
-  <millis>1588775796822</millis>
-  <sequence>164</sequence>
-  <logger>ESPlorer.ESPlorer</logger>
-  <level>INFO</level>
-  <class>ESPlorer.ESPlorer</class>
-  <method>log</method>
-  <thread>39</thread>
-  <message>recv:w([==[]==]);&lt;CR&gt;&lt;LF&gt;</message>
-</record>
-<record>
-  <date>2020-05-06T22:36:36</date>
-  <millis>1588775796826</millis>
-  <sequence>165</sequence>
-  <logger>ESPlorer.ESPlorer</logger>
-  <level>INFO</level>
-  <class>ESPlorer.ESPlorer</class>
-  <method>log</method>
-  <thread>39</thread>
-  <message>recv:&gt; </message>
-</record>
-<record>
-  <date>2020-05-06T22:36:36</date>
-  <millis>1588775796834</millis>
-  <sequence>166</sequence>
-  <logger>ESPlorer.ESPlorer</logger>
-  <level>INFO</level>
-  <class>ESPlorer.ESPlorer</class>
-  <method>log</method>
-  <thread>16</thread>
-  <message>4</message>
-</record>
-<record>
-  <date>2020-05-06T22:36:36</date>
-  <millis>1588775796836</millis>
-  <sequence>167</sequence>
-  <logger>ESPlorer.ESPlorer</logger>
-  <level>INFO</level>
-  <class>ESPlorer.ESPlorer</class>
-  <method>log</method>
-  <thread>16</thread>
-  <message>sending:w([==[print("Setting Wifi")]==]);&lt;CR&gt;&lt;LF&gt;</message>
-</record>
-<record>
-  <date>2020-05-06T22:36:36</date>
-  <millis>1588775796840</millis>
-  <sequence>168</sequence>
-  <logger>ESPlorer.ESPlorer</logger>
-  <level>INFO</level>
-  <class>ESPlorer.ESPlorer</class>
-  <method>log</method>
-  <thread>39</thread>
-  <message>recv:w([==[print("Setting Wifi")]==])</message>
-</record>
-<record>
-  <date>2020-05-06T22:36:36</date>
-  <millis>1588775796841</millis>
-  <sequence>169</sequence>
-  <logger>ESPlorer.ESPlorer</logger>
-  <level>INFO</level>
-  <class>ESPlorer.ESPlorer</class>
-  <method>log</method>
-  <thread>39</thread>
-  <message>recv:;&lt;CR&gt;&lt;LF&gt;</message>
-</record>
-<record>
-  <date>2020-05-06T22:36:36</date>
-  <millis>1588775796845</millis>
-  <sequence>170</sequence>
-  <logger>ESPlorer.ESPlorer</logger>
-  <level>INFO</level>
-  <class>ESPlorer.ESPlorer</class>
-  <method>log</method>
-  <thread>39</thread>
-  <message>recv:&gt; </message>
-</record>
-<record>
-  <date>2020-05-06T22:36:36</date>
-  <millis>1588775796853</millis>
-  <sequence>171</sequence>
-  <logger>ESPlorer.ESPlorer</logger>
-  <level>INFO</level>
-  <class>ESPlorer.ESPlorer</class>
-  <method>log</method>
-  <thread>16</thread>
-  <message>5</message>
-</record>
-<record>
-  <date>2020-05-06T22:36:36</date>
-  <millis>1588775796853</millis>
-  <sequence>172</sequence>
-  <logger>ESPlorer.ESPlorer</logger>
-  <level>INFO</level>
-  <class>ESPlorer.ESPlorer</class>
-  <method>log</method>
-  <thread>16</thread>
-  <message>sending:w([==[wifi.setmode(wifi.STATION)]==]);&lt;CR&gt;&lt;LF&gt;</message>
-</record>
-<record>
-  <date>2020-05-06T22:36:36</date>
-  <millis>1588775796857</millis>
-  <sequence>173</sequence>
-  <logger>ESPlorer.ESPlorer</logger>
-  <level>INFO</level>
-  <class>ESPlorer.ESPlorer</class>
-  <method>log</method>
-  <thread>39</thread>
-  <message>recv:w([==[wifi.setmode(wifi.STATION)</message>
-</record>
-<record>
-  <date>2020-05-06T22:36:36</date>
-  <millis>1588775796859</millis>
-  <sequence>174</sequence>
-  <logger>ESPlorer.ESPlorer</logger>
-  <level>INFO</level>
-  <class>ESPlorer.ESPlorer</class>
-  <method>log</method>
-  <thread>39</thread>
-  <message>recv:]==]);&lt;CR&gt;&lt;LF&gt;</message>
-</record>
-<record>
-  <date>2020-05-06T22:36:36</date>
-  <millis>1588775796863</millis>
-  <sequence>175</sequence>
-  <logger>ESPlorer.ESPlorer</logger>
-  <level>INFO</level>
-  <class>ESPlorer.ESPlorer</class>
-  <method>log</method>
-  <thread>39</thread>
-  <message>recv:&gt; </message>
-</record>
-<record>
-  <date>2020-05-06T22:36:36</date>
-  <millis>1588775796871</millis>
-  <sequence>176</sequence>
-  <logger>ESPlorer.ESPlorer</logger>
-  <level>INFO</level>
-  <class>ESPlorer.ESPlorer</class>
-  <method>log</method>
-  <thread>16</thread>
-  <message>6</message>
-</record>
-<record>
-  <date>2020-05-06T22:36:36</date>
-  <millis>1588775796871</millis>
-  <sequence>177</sequence>
-  <logger>ESPlorer.ESPlorer</logger>
-  <level>INFO</level>
-  <class>ESPlorer.ESPlorer</class>
-  <method>log</method>
-  <thread>16</thread>
-  <message>sending:w([==[]==]);&lt;CR&gt;&lt;LF&gt;</message>
-</record>
-<record>
-  <date>2020-05-06T22:36:36</date>
-  <millis>1588775796874</millis>
-  <sequence>178</sequence>
-  <logger>ESPlorer.ESPlorer</logger>
-  <level>INFO</level>
-  <class>ESPlorer.ESPlorer</class>
-  <method>log</method>
-  <thread>39</thread>
-  <message>recv:w([==[]==]);&lt;CR&gt;&lt;LF&gt;</message>
-</record>
-<record>
-  <date>2020-05-06T22:36:36</date>
-  <millis>1588775796878</millis>
-  <sequence>179</sequence>
-  <logger>ESPlorer.ESPlorer</logger>
-  <level>INFO</level>
-  <class>ESPlorer.ESPlorer</class>
-  <method>log</method>
-  <thread>39</thread>
-  <message>recv:&gt; </message>
-</record>
-<record>
-  <date>2020-05-06T22:36:36</date>
-  <millis>1588775796887</millis>
-  <sequence>180</sequence>
-  <logger>ESPlorer.ESPlorer</logger>
-  <level>INFO</level>
-  <class>ESPlorer.ESPlorer</class>
-  <method>log</method>
-  <thread>16</thread>
-  <message>7</message>
-</record>
-<record>
-  <date>2020-05-06T22:36:36</date>
-  <millis>1588775796887</millis>
-  <sequence>181</sequence>
-  <logger>ESPlorer.ESPlorer</logger>
-  <level>INFO</level>
-  <class>ESPlorer.ESPlorer</class>
-  <method>log</method>
-  <thread>16</thread>
-  <message>sending:w([==[station_info={}]==]);&lt;CR&gt;&lt;LF&gt;</message>
-</record>
-<record>
-  <date>2020-05-06T22:36:36</date>
-  <millis>1588775796892</millis>
-  <sequence>182</sequence>
-  <logger>ESPlorer.ESPlorer</logger>
-  <level>INFO</level>
-  <class>ESPlorer.ESPlorer</class>
-  <method>log</method>
-  <thread>39</thread>
-  <message>recv:w([==[station_info={}]==]);&lt;CR&gt;&lt;LF&gt;</message>
-</record>
-<record>
-  <date>2020-05-06T22:36:36</date>
-  <millis>1588775796895</millis>
-  <sequence>183</sequence>
-  <logger>ESPlorer.ESPlorer</logger>
-  <level>INFO</level>
-  <class>ESPlorer.ESPlorer</class>
-  <method>log</method>
-  <thread>39</thread>
-  <message>recv:&gt; </message>
-</record>
-<record>
-  <date>2020-05-06T22:36:36</date>
-  <millis>1588775796903</millis>
-  <sequence>184</sequence>
-  <logger>ESPlorer.ESPlorer</logger>
-  <level>INFO</level>
-  <class>ESPlorer.ESPlorer</class>
-  <method>log</method>
-  <thread>16</thread>
-  <message>8</message>
-</record>
-<record>
-  <date>2020-05-06T22:36:36</date>
-  <millis>1588775796903</millis>
-  <sequence>185</sequence>
-  <logger>ESPlorer.ESPlorer</logger>
-  <level>INFO</level>
-  <class>ESPlorer.ESPlorer</class>
-  <method>log</method>
-  <thread>16</thread>
-  <message>sending:w([==[station_info.ssid="Isprition"]==]);&lt;CR&gt;&lt;LF&gt;</message>
-</record>
-<record>
-  <date>2020-05-06T22:36:36</date>
-  <millis>1588775796907</millis>
-  <sequence>186</sequence>
-  <logger>ESPlorer.ESPlorer</logger>
-  <level>INFO</level>
-  <class>ESPlorer.ESPlorer</class>
-  <method>log</method>
-  <thread>39</thread>
-  <message>recv:w([==[station_info.ssid="Ispriti</message>
-</record>
-<record>
-  <date>2020-05-06T22:36:36</date>
-  <millis>1588775796909</millis>
-  <sequence>187</sequence>
-  <logger>ESPlorer.ESPlorer</logger>
-  <level>INFO</level>
-  <class>ESPlorer.ESPlorer</class>
-  <method>log</method>
-  <thread>39</thread>
-  <message>recv:on"]==]);&lt;CR&gt;&lt;LF&gt;</message>
-</record>
-<record>
-  <date>2020-05-06T22:36:36</date>
-  <millis>1588775796913</millis>
-  <sequence>188</sequence>
-  <logger>ESPlorer.ESPlorer</logger>
-  <level>INFO</level>
-  <class>ESPlorer.ESPlorer</class>
-  <method>log</method>
-  <thread>39</thread>
-  <message>recv:&gt; </message>
-</record>
-<record>
-  <date>2020-05-06T22:36:36</date>
-  <millis>1588775796920</millis>
-  <sequence>189</sequence>
-  <logger>ESPlorer.ESPlorer</logger>
-  <level>INFO</level>
-  <class>ESPlorer.ESPlorer</class>
-  <method>log</method>
-  <thread>16</thread>
-  <message>9</message>
-</record>
-<record>
-  <date>2020-05-06T22:36:36</date>
-  <millis>1588775796923</millis>
-  <sequence>190</sequence>
-  <logger>ESPlorer.ESPlorer</logger>
-  <level>INFO</level>
-  <class>ESPlorer.ESPlorer</class>
-  <method>log</method>
-  <thread>16</thread>
-  <message>sending:w([==[station_info.pwd="P-6h6662"]==]);&lt;CR&gt;&lt;LF&gt;</message>
-</record>
-<record>
-  <date>2020-05-06T22:36:36</date>
-  <millis>1588775796929</millis>
-  <sequence>191</sequence>
-  <logger>ESPlorer.ESPlorer</logger>
-  <level>INFO</level>
-  <class>ESPlorer.ESPlorer</class>
-  <method>log</method>
-  <thread>39</thread>
-  <message>recv:w([==[station_info.pwd="P-6h6662</message>
-</record>
-<record>
-  <date>2020-05-06T22:36:36</date>
-  <millis>1588775796931</millis>
-  <sequence>192</sequence>
-  <logger>ESPlorer.ESPlorer</logger>
-  <level>INFO</level>
-  <class>ESPlorer.ESPlorer</class>
-  <method>log</method>
-  <thread>39</thread>
-  <message>recv:"]==]);&lt;CR&gt;&lt;LF&gt;</message>
-</record>
-<record>
-  <date>2020-05-06T22:36:36</date>
-  <millis>1588775796934</millis>
-  <sequence>193</sequence>
-  <logger>ESPlorer.ESPlorer</logger>
-  <level>INFO</level>
-  <class>ESPlorer.ESPlorer</class>
-  <method>log</method>
-  <thread>39</thread>
-  <message>recv:&gt; </message>
-</record>
-<record>
-  <date>2020-05-06T22:36:36</date>
-  <millis>1588775796943</millis>
-  <sequence>194</sequence>
-  <logger>ESPlorer.ESPlorer</logger>
-  <level>INFO</level>
-  <class>ESPlorer.ESPlorer</class>
-  <method>log</method>
-  <thread>16</thread>
-  <message>10</message>
-</record>
-<record>
-  <date>2020-05-06T22:36:36</date>
-  <millis>1588775796943</millis>
-  <sequence>195</sequence>
-  <logger>ESPlorer.ESPlorer</logger>
-  <level>INFO</level>
-  <class>ESPlorer.ESPlorer</class>
-  <method>log</method>
-  <thread>16</thread>
-  <message>sending:w([==[]==]);&lt;CR&gt;&lt;LF&gt;</message>
-</record>
-<record>
-  <date>2020-05-06T22:36:36</date>
-  <millis>1588775796947</millis>
-  <sequence>196</sequence>
-  <logger>ESPlorer.ESPlorer</logger>
-  <level>INFO</level>
-  <class>ESPlorer.ESPlorer</class>
-  <method>log</method>
-  <thread>39</thread>
-  <message>recv:w([==[]==]);&lt;CR&gt;&lt;LF&gt;</message>
-</record>
-<record>
-  <date>2020-05-06T22:36:36</date>
-  <millis>1588775796950</millis>
-  <sequence>197</sequence>
-  <logger>ESPlorer.ESPlorer</logger>
-  <level>INFO</level>
-  <class>ESPlorer.ESPlorer</class>
-  <method>log</method>
-  <thread>39</thread>
-  <message>recv:&gt; </message>
-</record>
-<record>
-  <date>2020-05-06T22:36:36</date>
-  <millis>1588775796958</millis>
-  <sequence>198</sequence>
-  <logger>ESPlorer.ESPlorer</logger>
-  <level>INFO</level>
-  <class>ESPlorer.ESPlorer</class>
-  <method>log</method>
-  <thread>16</thread>
-  <message>11</message>
-</record>
-<record>
-  <date>2020-05-06T22:36:36</date>
-  <millis>1588775796958</millis>
-  <sequence>199</sequence>
-  <logger>ESPlorer.ESPlorer</logger>
-  <level>INFO</level>
-  <class>ESPlorer.ESPlorer</class>
-  <method>log</method>
-  <thread>16</thread>
-  <message>sending:w([==[print("Configurating...")]==]);&lt;CR&gt;&lt;LF&gt;</message>
-</record>
-<record>
-  <date>2020-05-06T22:36:36</date>
-  <millis>1588775796963</millis>
-  <sequence>200</sequence>
-  <logger>ESPlorer.ESPlorer</logger>
-  <level>INFO</level>
-  <class>ESPlorer.ESPlorer</class>
-  <method>log</method>
-  <thread>39</thread>
-  <message>recv:w([==[print("Configurating...")]</message>
-</record>
-<record>
-  <date>2020-05-06T22:36:36</date>
-  <millis>1588775796965</millis>
-  <sequence>201</sequence>
-  <logger>ESPlorer.ESPlorer</logger>
-  <level>INFO</level>
-  <class>ESPlorer.ESPlorer</class>
-  <method>log</method>
-  <thread>39</thread>
-  <message>recv:==]);&lt;CR&gt;&lt;LF&gt;</message>
-</record>
-<record>
-  <date>2020-05-06T22:36:36</date>
-  <millis>1588775796969</millis>
-  <sequence>202</sequence>
-  <logger>ESPlorer.ESPlorer</logger>
-  <level>INFO</level>
-  <class>ESPlorer.ESPlorer</class>
-  <method>log</method>
-  <thread>39</thread>
-  <message>recv:&gt; </message>
-</record>
-<record>
-  <date>2020-05-06T22:36:36</date>
-  <millis>1588775796976</millis>
-  <sequence>203</sequence>
-  <logger>ESPlorer.ESPlorer</logger>
-  <level>INFO</level>
-  <class>ESPlorer.ESPlorer</class>
-  <method>log</method>
-  <thread>16</thread>
-  <message>12</message>
-</record>
-<record>
-  <date>2020-05-06T22:36:36</date>
-  <millis>1588775796976</millis>
-  <sequence>204</sequence>
-  <logger>ESPlorer.ESPlorer</logger>
-  <level>INFO</level>
-  <class>ESPlorer.ESPlorer</class>
-  <method>log</method>
-  <thread>16</thread>
-  <message>sending:w([==[]==]);&lt;CR&gt;&lt;LF&gt;</message>
-</record>
-<record>
-  <date>2020-05-06T22:36:36</date>
-  <millis>1588775796979</millis>
-  <sequence>205</sequence>
-  <logger>ESPlorer.ESPlorer</logger>
-  <level>INFO</level>
-  <class>ESPlorer.ESPlorer</class>
-  <method>log</method>
-  <thread>39</thread>
-  <message>recv:w([==[]==]);&lt;CR&gt;&lt;LF&gt;</message>
-</record>
-<record>
-  <date>2020-05-06T22:36:36</date>
-  <millis>1588775796983</millis>
-  <sequence>206</sequence>
-  <logger>ESPlorer.ESPlorer</logger>
-  <level>INFO</level>
-  <class>ESPlorer.ESPlorer</class>
-  <method>log</method>
-  <thread>39</thread>
-  <message>recv:&gt; </message>
-</record>
-<record>
-  <date>2020-05-06T22:36:36</date>
-  <millis>1588775796991</millis>
-  <sequence>207</sequence>
-  <logger>ESPlorer.ESPlorer</logger>
-  <level>INFO</level>
-  <class>ESPlorer.ESPlorer</class>
-  <method>log</method>
-  <thread>16</thread>
-  <message>13</message>
-</record>
-<record>
-  <date>2020-05-06T22:36:36</date>
-  <millis>1588775796991</millis>
-  <sequence>208</sequence>
-  <logger>ESPlorer.ESPlorer</logger>
-  <level>INFO</level>
-  <class>ESPlorer.ESPlorer</class>
-  <method>log</method>
-  <thread>16</thread>
-  <message>sending:w([==[wifi.sta.config(station_info)]==]);&lt;CR&gt;&lt;LF&gt;</message>
-</record>
-<record>
-  <date>2020-05-06T22:36:36</date>
-  <millis>1588775796995</millis>
-  <sequence>209</sequence>
-  <logger>ESPlorer.ESPlorer</logger>
-  <level>INFO</level>
-  <class>ESPlorer.ESPlorer</class>
-  <method>log</method>
-  <thread>39</thread>
-  <message>recv:w([==[wifi.sta.config(station_in</message>
-</record>
-<record>
-  <date>2020-05-06T22:36:36</date>
-  <millis>1588775796997</millis>
-  <sequence>210</sequence>
-  <logger>ESPlorer.ESPlorer</logger>
-  <level>INFO</level>
-  <class>ESPlorer.ESPlorer</class>
-  <method>log</method>
-  <thread>39</thread>
-  <message>recv:fo)]==]);&lt;CR&gt;&lt;LF&gt;</message>
-</record>
-<record>
-  <date>2020-05-06T22:36:37</date>
-  <millis>1588775797001</millis>
-  <sequence>211</sequence>
-  <logger>ESPlorer.ESPlorer</logger>
-  <level>INFO</level>
-  <class>ESPlorer.ESPlorer</class>
-  <method>log</method>
-  <thread>39</thread>
-  <message>recv:&gt; </message>
-</record>
-<record>
-  <date>2020-05-06T22:36:37</date>
-  <millis>1588775797009</millis>
-  <sequence>212</sequence>
-  <logger>ESPlorer.ESPlorer</logger>
-  <level>INFO</level>
-  <class>ESPlorer.ESPlorer</class>
-  <method>log</method>
-  <thread>16</thread>
-  <message>14</message>
-</record>
-<record>
-  <date>2020-05-06T22:36:37</date>
-  <millis>1588775797009</millis>
-  <sequence>213</sequence>
-  <logger>ESPlorer.ESPlorer</logger>
-  <level>INFO</level>
-  <class>ESPlorer.ESPlorer</class>
-  <method>log</method>
-  <thread>16</thread>
-  <message>sending:w([==[]==]);&lt;CR&gt;&lt;LF&gt;</message>
-</record>
-<record>
-  <date>2020-05-06T22:36:37</date>
-  <millis>1588775797012</millis>
-  <sequence>214</sequence>
-  <logger>ESPlorer.ESPlorer</logger>
-  <level>INFO</level>
-  <class>ESPlorer.ESPlorer</class>
-  <method>log</method>
-  <thread>39</thread>
-  <message>recv:w([==[]==]);&lt;CR&gt;&lt;LF&gt;</message>
-</record>
-<record>
-  <date>2020-05-06T22:36:37</date>
-  <millis>1588775797016</millis>
-  <sequence>215</sequence>
-  <logger>ESPlorer.ESPlorer</logger>
-  <level>INFO</level>
-  <class>ESPlorer.ESPlorer</class>
-  <method>log</method>
-  <thread>39</thread>
-  <message>recv:&gt; </message>
-</record>
-<record>
-  <date>2020-05-06T22:36:37</date>
-  <millis>1588775797023</millis>
-  <sequence>216</sequence>
-  <logger>ESPlorer.ESPlorer</logger>
-  <level>INFO</level>
-  <class>ESPlorer.ESPlorer</class>
-  <method>log</method>
-  <thread>16</thread>
-  <message>15</message>
-</record>
-<record>
-  <date>2020-05-06T22:36:37</date>
-  <millis>1588775797023</millis>
-  <sequence>217</sequence>
-  <logger>ESPlorer.ESPlorer</logger>
-  <level>INFO</level>
-  <class>ESPlorer.ESPlorer</class>
-  <method>log</method>
-  <thread>16</thread>
-  <message>sending:w([==[]==]);&lt;CR&gt;&lt;LF&gt;</message>
-</record>
-<record>
-  <date>2020-05-06T22:36:37</date>
-  <millis>1588775797026</millis>
-  <sequence>218</sequence>
-  <logger>ESPlorer.ESPlorer</logger>
-  <level>INFO</level>
-  <class>ESPlorer.ESPlorer</class>
-  <method>log</method>
-  <thread>39</thread>
-  <message>recv:w([==[]==]);&lt;CR&gt;&lt;LF&gt;</message>
-</record>
-<record>
-  <date>2020-05-06T22:36:37</date>
-  <millis>1588775797030</millis>
-  <sequence>219</sequence>
-  <logger>ESPlorer.ESPlorer</logger>
-  <level>INFO</level>
-  <class>ESPlorer.ESPlorer</class>
-  <method>log</method>
-  <thread>39</thread>
-  <message>recv:&gt; </message>
-</record>
-<record>
-  <date>2020-05-06T22:36:37</date>
-  <millis>1588775797038</millis>
-  <sequence>220</sequence>
-  <logger>ESPlorer.ESPlorer</logger>
-  <level>INFO</level>
-  <class>ESPlorer.ESPlorer</class>
-  <method>log</method>
-  <thread>16</thread>
-  <message>16</message>
-</record>
-<record>
-  <date>2020-05-06T22:36:37</date>
-  <millis>1588775797038</millis>
-  <sequence>221</sequence>
-  <logger>ESPlorer.ESPlorer</logger>
-  <level>INFO</level>
-  <class>ESPlorer.ESPlorer</class>
-  <method>log</method>
-  <thread>16</thread>
-  <message>sending:w([==[--this need a connection checking program]==]);&lt;CR&gt;&lt;LF&gt;</message>
-</record>
-<record>
-  <date>2020-05-06T22:36:37</date>
-  <millis>1588775797042</millis>
-  <sequence>222</sequence>
-  <logger>ESPlorer.ESPlorer</logger>
-  <level>INFO</level>
-  <class>ESPlorer.ESPlorer</class>
-  <method>log</method>
-  <thread>39</thread>
-  <message>recv:w([==[--this need a connection c</message>
-</record>
-<record>
-  <date>2020-05-06T22:36:37</date>
-  <millis>1588775797045</millis>
-  <sequence>223</sequence>
-  <logger>ESPlorer.ESPlorer</logger>
-  <level>INFO</level>
-  <class>ESPlorer.ESPlorer</class>
-  <method>log</method>
-  <thread>39</thread>
-  <message>recv:hecking program]==]);&lt;CR&gt;&lt;LF&gt;</message>
-</record>
-<record>
-  <date>2020-05-06T22:36:37</date>
-  <millis>1588775797049</millis>
-  <sequence>224</sequence>
-  <logger>ESPlorer.ESPlorer</logger>
-  <level>INFO</level>
-  <class>ESPlorer.ESPlorer</class>
-  <method>log</method>
-  <thread>39</thread>
-  <message>recv:&gt; </message>
-</record>
-<record>
-  <date>2020-05-06T22:36:37</date>
-  <millis>1588775797057</millis>
-  <sequence>225</sequence>
-  <logger>ESPlorer.ESPlorer</logger>
-  <level>INFO</level>
-  <class>ESPlorer.ESPlorer</class>
-  <method>log</method>
-  <thread>16</thread>
-  <message>17</message>
-</record>
-<record>
-  <date>2020-05-06T22:36:37</date>
-  <millis>1588775797059</millis>
-  <sequence>226</sequence>
-  <logger>ESPlorer.ESPlorer</logger>
-  <level>INFO</level>
-  <class>ESPlorer.ESPlorer</class>
-  <method>log</method>
-  <thread>16</thread>
-  <message>sending:file.close();&lt;CR&gt;&lt;LF&gt;</message>
-</record>
-<record>
-  <date>2020-05-06T22:36:37</date>
-  <millis>1588775797063</millis>
-  <sequence>227</sequence>
-  <logger>ESPlorer.ESPlorer</logger>
-  <level>INFO</level>
-  <class>ESPlorer.ESPlorer</class>
-  <method>log</method>
-  <thread>39</thread>
-  <message>recv:file.close();&lt;CR&gt;&lt;LF&gt;</message>
-</record>
-<record>
-  <date>2020-05-06T22:36:37</date>
-  <millis>1588775797071</millis>
-  <sequence>228</sequence>
-  <logger>ESPlorer.ESPlorer</logger>
-  <level>INFO</level>
-  <class>ESPlorer.ESPlorer</class>
-  <method>log</method>
-  <thread>39</thread>
-  <message>recv:&gt; </message>
-</record>
-<record>
-  <date>2020-05-06T22:36:37</date>
-  <millis>1588775797088</millis>
-  <sequence>229</sequence>
-  <logger>ESPlorer.ESPlorer</logger>
-  <level>INFO</level>
-  <class>ESPlorer.ESPlorer</class>
-  <method>log</method>
-  <thread>16</thread>
-  <message>18</message>
-</record>
-<record>
-  <date>2020-05-06T22:36:37</date>
-  <millis>1588775797089</millis>
-  <sequence>230</sequence>
-  <logger>ESPlorer.ESPlorer</logger>
-  <level>INFO</level>
-  <class>ESPlorer.ESPlorer</class>
-  <method>log</method>
-  <thread>16</thread>
-  <message>sending:dofile("init.lua");&lt;CR&gt;&lt;LF&gt;</message>
-</record>
-<record>
-  <date>2020-05-06T22:36:37</date>
-  <millis>1588775797093</millis>
-  <sequence>231</sequence>
-  <logger>ESPlorer.ESPlorer</logger>
-  <level>INFO</level>
-  <class>ESPlorer.ESPlorer</class>
-  <method>log</method>
-  <thread>39</thread>
-  <message>recv:dofile("init.lua");&lt;CR&gt;&lt;LF&gt;</message>
-</record>
-<record>
-  <date>2020-05-06T22:36:37</date>
-  <millis>1588775797121</millis>
-  <sequence>232</sequence>
-  <logger>ESPlorer.ESPlorer</logger>
-  <level>INFO</level>
-  <class>ESPlorer.ESPlorer</class>
-  <method>log</method>
-  <thread>39</thread>
-  <message>Operation done. Duration = 394 ms</message>
-</record>
-<record>
-  <date>2020-05-06T22:36:55</date>
-  <millis>1588775815957</millis>
-  <sequence>233</sequence>
-  <logger>ESPlorer.ESPlorer</logger>
-  <level>INFO</level>
-  <class>ESPlorer.ESPlorer</class>
-  <method>log</method>
-  <thread>16</thread>
-  <message>We save known file init.lua</message>
-</record>
-<record>
-  <date>2020-05-06T22:36:55</date>
-  <millis>1588775815957</millis>
-  <sequence>234</sequence>
-  <logger>ESPlorer.ESPlorer</logger>
-  <level>INFO</level>
-  <class>ESPlorer.ESPlorer</class>
-  <method>log</method>
-  <thread>16</thread>
-  <message>Try to saving file init.lua ...</message>
-</record>
-<record>
-  <date>2020-05-06T22:36:55</date>
-  <millis>1588775815959</millis>
-  <sequence>235</sequence>
-  <logger>ESPlorer.ESPlorer</logger>
-  <level>INFO</level>
-  <class>ESPlorer.ESPlorer</class>
-  <method>log</method>
-  <thread>16</thread>
-  <message>Save file init.lua: Success.</message>
-</record>
-<record>
-  <date>2020-05-06T22:36:56</date>
-  <millis>1588775816030</millis>
-  <sequence>236</sequence>
-  <logger>ESPlorer.ESPlorer</logger>
-  <level>INFO</level>
-  <class>ESPlorer.ESPlorer</class>
-  <method>log</method>
-  <thread>16</thread>
-  <message>We save known file init.lua</message>
-</record>
-<record>
-  <date>2020-05-06T22:36:56</date>
-  <millis>1588775816030</millis>
-  <sequence>237</sequence>
-  <logger>ESPlorer.ESPlorer</logger>
-  <level>INFO</level>
-  <class>ESPlorer.ESPlorer</class>
-  <method>log</method>
-  <thread>16</thread>
-  <message>Try to saving file init.lua ...</message>
-</record>
-<record>
-  <date>2020-05-06T22:36:56</date>
-  <millis>1588775816031</millis>
-  <sequence>238</sequence>
-  <logger>ESPlorer.ESPlorer</logger>
-  <level>INFO</level>
-  <class>ESPlorer.ESPlorer</class>
-  <method>log</method>
-  <thread>16</thread>
-  <message>Save file init.lua: Success.</message>
-</record>
-<record>
-  <date>2020-05-06T22:36:56</date>
-  <millis>1588775816032</millis>
-  <sequence>239</sequence>
-  <logger>ESPlorer.ESPlorer</logger>
-  <level>INFO</level>
-  <class>ESPlorer.ESPlorer</class>
-  <method>log</method>
-  <thread>16</thread>
-  <message>FileSaveESP: Try to save file to ESP...</message>
-</record>
-<record>
-  <date>2020-05-06T22:36:56</date>
-  <millis>1588775816039</millis>
-  <sequence>240</sequence>
-  <logger>ESPlorer.ESPlorer</logger>
-  <level>INFO</level>
-  <class>ESPlorer.ESPlorer</class>
-  <method>log</method>
-  <thread>16</thread>
-  <message>DataSender: start "Smart Mode"</message>
-</record>
-<record>
-  <date>2020-05-06T22:36:56</date>
-  <millis>1588775816039</millis>
-  <sequence>241</sequence>
-  <logger>ESPlorer.ESPlorer</logger>
-  <level>INFO</level>
-  <class>ESPlorer.ESPlorer</class>
-  <method>log</method>
-  <thread>16</thread>
-  <message>FileSaveESP: Starting...</message>
-</record>
-<record>
-  <date>2020-05-06T22:36:56</date>
-  <millis>1588775816050</millis>
-  <sequence>242</sequence>
-  <logger>ESPlorer.ESPlorer</logger>
-  <level>INFO</level>
-  <class>ESPlorer.ESPlorer</class>
-  <method>log</method>
-  <thread>16</thread>
-  <message>0</message>
-</record>
-<record>
-  <date>2020-05-06T22:36:56</date>
-  <millis>1588775816050</millis>
-  <sequence>243</sequence>
-  <logger>ESPlorer.ESPlorer</logger>
-  <level>INFO</level>
-  <class>ESPlorer.ESPlorer</class>
-  <method>log</method>
-  <thread>16</thread>
-  <message>sending:file.remove("init.lua");&lt;CR&gt;&lt;LF&gt;</message>
-</record>
-<record>
-  <date>2020-05-06T22:36:56</date>
-  <millis>1588775816056</millis>
-  <sequence>244</sequence>
-  <logger>ESPlorer.ESPlorer</logger>
-  <level>INFO</level>
-  <class>ESPlorer.ESPlorer</class>
-  <method>log</method>
-  <thread>41</thread>
-  <message>recv:file.remove("init.lua");&lt;CR&gt;&lt;LF&gt;</message>
-</record>
-<record>
-  <date>2020-05-06T22:36:56</date>
-  <millis>1588775816064</millis>
-  <sequence>245</sequence>
-  <logger>ESPlorer.ESPlorer</logger>
-  <level>INFO</level>
-  <class>ESPlorer.ESPlorer</class>
-  <method>log</method>
-  <thread>41</thread>
-  <message>recv:&gt; </message>
-</record>
-<record>
-  <date>2020-05-06T22:36:56</date>
-  <millis>1588775816067</millis>
-  <sequence>246</sequence>
-  <logger>ESPlorer.ESPlorer</logger>
-  <level>INFO</level>
-  <class>ESPlorer.ESPlorer</class>
-  <method>log</method>
-  <thread>16</thread>
-  <message>1</message>
-</record>
-<record>
-  <date>2020-05-06T22:36:56</date>
-  <millis>1588775816067</millis>
-  <sequence>247</sequence>
-  <logger>ESPlorer.ESPlorer</logger>
-  <level>INFO</level>
-  <class>ESPlorer.ESPlorer</class>
-  <method>log</method>
-  <thread>16</thread>
-  <message>sending:file.open("init.lua","w+");&lt;CR&gt;&lt;LF&gt;</message>
-</record>
-<record>
-  <date>2020-05-06T22:36:56</date>
-  <millis>1588775816070</millis>
-  <sequence>248</sequence>
-  <logger>ESPlorer.ESPlorer</logger>
-  <level>INFO</level>
-  <class>ESPlorer.ESPlorer</class>
-  <method>log</method>
-  <thread>41</thread>
-  <message>recv:file.open("i</message>
-</record>
-<record>
-  <date>2020-05-06T22:36:56</date>
-  <millis>1588775816074</millis>
-  <sequence>249</sequence>
-  <logger>ESPlorer.ESPlorer</logger>
-  <level>INFO</level>
-  <class>ESPlorer.ESPlorer</class>
-  <method>log</method>
-  <thread>41</thread>
-  <message>recv:nit.lua","w+");&lt;CR&gt;&lt;LF&gt;</message>
-</record>
-<record>
-  <date>2020-05-06T22:36:56</date>
-  <millis>1588775816085</millis>
-  <sequence>250</sequence>
-  <logger>ESPlorer.ESPlorer</logger>
-  <level>INFO</level>
-  <class>ESPlorer.ESPlorer</class>
-  <method>log</method>
-  <thread>16</thread>
-  <message>2</message>
-</record>
-<record>
-  <date>2020-05-06T22:36:56</date>
-  <millis>1588775816086</millis>
-  <sequence>251</sequence>
-  <logger>ESPlorer.ESPlorer</logger>
-  <level>INFO</level>
-  <class>ESPlorer.ESPlorer</class>
-  <method>log</method>
-  <thread>16</thread>
-  <message>sending:w = file.writeline&lt;CR&gt;&lt;LF&gt;</message>
-</record>
-<record>
-  <date>2020-05-06T22:36:56</date>
-  <millis>1588775816101</millis>
-  <sequence>252</sequence>
-  <logger>ESPlorer.ESPlorer</logger>
-  <level>INFO</level>
-  <class>ESPlorer.ESPlorer</class>
-  <method>log</method>
-  <thread>41</thread>
-  <message>recv:&gt; w = file.writeline&lt;CR&gt;&lt;LF&gt;</message>
-</record>
-<record>
-  <date>2020-05-06T22:36:56</date>
-  <millis>1588775816104</millis>
-  <sequence>253</sequence>
-  <logger>ESPlorer.ESPlorer</logger>
-  <level>INFO</level>
-  <class>ESPlorer.ESPlorer</class>
-  <method>log</method>
-  <thread>41</thread>
-  <message>recv:&gt; </message>
-</record>
-<record>
-  <date>2020-05-06T22:36:56</date>
-  <millis>1588775816114</millis>
-  <sequence>254</sequence>
-  <logger>ESPlorer.ESPlorer</logger>
-  <level>INFO</level>
-  <class>ESPlorer.ESPlorer</class>
-  <method>log</method>
-  <thread>16</thread>
-  <message>3</message>
-</record>
-<record>
-  <date>2020-05-06T22:36:56</date>
-  <millis>1588775816115</millis>
-  <sequence>255</sequence>
-  <logger>ESPlorer.ESPlorer</logger>
-  <level>INFO</level>
-  <class>ESPlorer.ESPlorer</class>
-  <method>log</method>
-  <thread>16</thread>
-  <message>sending:w([==[]==]);&lt;CR&gt;&lt;LF&gt;</message>
-</record>
-<record>
-  <date>2020-05-06T22:36:56</date>
-  <millis>1588775816118</millis>
-  <sequence>256</sequence>
-  <logger>ESPlorer.ESPlorer</logger>
-  <level>INFO</level>
-  <class>ESPlorer.ESPlorer</class>
-  <method>log</method>
-  <thread>41</thread>
-  <message>recv:w([==[]==]);&lt;CR&gt;&lt;LF&gt;</message>
-</record>
-<record>
-  <date>2020-05-06T22:36:56</date>
-  <millis>1588775816123</millis>
-  <sequence>257</sequence>
-  <logger>ESPlorer.ESPlorer</logger>
-  <level>INFO</level>
-  <class>ESPlorer.ESPlorer</class>
-  <method>log</method>
-  <thread>41</thread>
-  <message>recv:&gt; </message>
-</record>
-<record>
-  <date>2020-05-06T22:36:56</date>
-  <millis>1588775816138</millis>
-  <sequence>258</sequence>
-  <logger>ESPlorer.ESPlorer</logger>
-  <level>INFO</level>
-  <class>ESPlorer.ESPlorer</class>
-  <method>log</method>
-  <thread>16</thread>
-  <message>4</message>
-</record>
-<record>
-  <date>2020-05-06T22:36:56</date>
-  <millis>1588775816139</millis>
-  <sequence>259</sequence>
-  <logger>ESPlorer.ESPlorer</logger>
-  <level>INFO</level>
-  <class>ESPlorer.ESPlorer</class>
-  <method>log</method>
-  <thread>16</thread>
-  <message>sending:w([==[print("Setting Wifi")]==]);&lt;CR&gt;&lt;LF&gt;</message>
-</record>
-<record>
-  <date>2020-05-06T22:36:56</date>
-  <millis>1588775816142</millis>
-  <sequence>260</sequence>
-  <logger>ESPlorer.ESPlorer</logger>
-  <level>INFO</level>
-  <class>ESPlorer.ESPlorer</class>
-  <method>log</method>
-  <thread>41</thread>
-  <message>recv:w([==[print("Setting Wifi")]==])</message>
-</record>
-<record>
-  <date>2020-05-06T22:36:56</date>
-  <millis>1588775816145</millis>
-  <sequence>261</sequence>
-  <logger>ESPlorer.ESPlorer</logger>
-  <level>INFO</level>
-  <class>ESPlorer.ESPlorer</class>
-  <method>log</method>
-  <thread>41</thread>
-  <message>recv:;&lt;CR&gt;&lt;LF&gt;</message>
-</record>
-<record>
-  <date>2020-05-06T22:36:56</date>
-  <millis>1588775816147</millis>
-  <sequence>262</sequence>
-  <logger>ESPlorer.ESPlorer</logger>
-  <level>INFO</level>
-  <class>ESPlorer.ESPlorer</class>
-  <method>log</method>
-  <thread>41</thread>
-  <message>recv:&gt; </message>
-</record>
-<record>
-  <date>2020-05-06T22:36:56</date>
-  <millis>1588775816163</millis>
-  <sequence>263</sequence>
-  <logger>ESPlorer.ESPlorer</logger>
-  <level>INFO</level>
-  <class>ESPlorer.ESPlorer</class>
-  <method>log</method>
-  <thread>16</thread>
-  <message>5</message>
-</record>
-<record>
-  <date>2020-05-06T22:36:56</date>
-  <millis>1588775816165</millis>
-  <sequence>264</sequence>
-  <logger>ESPlorer.ESPlorer</logger>
-  <level>INFO</level>
-  <class>ESPlorer.ESPlorer</class>
-  <method>log</method>
-  <thread>16</thread>
-  <message>sending:w([==[wifi.setmode(wifi.STATION)]==]);&lt;CR&gt;&lt;LF&gt;</message>
-</record>
-<record>
-  <date>2020-05-06T22:36:56</date>
-  <millis>1588775816170</millis>
-  <sequence>265</sequence>
-  <logger>ESPlorer.ESPlorer</logger>
-  <level>INFO</level>
-  <class>ESPlorer.ESPlorer</class>
-  <method>log</method>
-  <thread>41</thread>
-  <message>recv:w([==[wifi.setmode(wifi.STATION)</message>
-</record>
-<record>
-  <date>2020-05-06T22:36:56</date>
-  <millis>1588775816173</millis>
-  <sequence>266</sequence>
-  <logger>ESPlorer.ESPlorer</logger>
-  <level>INFO</level>
-  <class>ESPlorer.ESPlorer</class>
-  <method>log</method>
-  <thread>41</thread>
-  <message>recv:]==]);&lt;CR&gt;&lt;LF&gt;</message>
-</record>
-<record>
-  <date>2020-05-06T22:36:56</date>
-  <millis>1588775816175</millis>
-  <sequence>267</sequence>
-  <logger>ESPlorer.ESPlorer</logger>
-  <level>INFO</level>
-  <class>ESPlorer.ESPlorer</class>
-  <method>log</method>
-  <thread>41</thread>
-  <message>recv:&gt; </message>
-</record>
-<record>
-  <date>2020-05-06T22:36:56</date>
-  <millis>1588775816190</millis>
-  <sequence>268</sequence>
-  <logger>ESPlorer.ESPlorer</logger>
-  <level>INFO</level>
-  <class>ESPlorer.ESPlorer</class>
-  <method>log</method>
-  <thread>16</thread>
-  <message>6</message>
-</record>
-<record>
-  <date>2020-05-06T22:36:56</date>
-  <millis>1588775816191</millis>
-  <sequence>269</sequence>
-  <logger>ESPlorer.ESPlorer</logger>
-  <level>INFO</level>
-  <class>ESPlorer.ESPlorer</class>
-  <method>log</method>
-  <thread>16</thread>
-  <message>sending:w([==[]==]);&lt;CR&gt;&lt;LF&gt;</message>
-</record>
-<record>
-  <date>2020-05-06T22:36:56</date>
-  <millis>1588775816196</millis>
-  <sequence>270</sequence>
-  <logger>ESPlorer.ESPlorer</logger>
-  <level>INFO</level>
-  <class>ESPlorer.ESPlorer</class>
-  <method>log</method>
-  <thread>41</thread>
-  <message>recv:w([==[]==]);&lt;CR&gt;&lt;LF&gt;</message>
-</record>
-<record>
-  <date>2020-05-06T22:36:56</date>
-  <millis>1588775816199</millis>
-  <sequence>271</sequence>
-  <logger>ESPlorer.ESPlorer</logger>
-  <level>INFO</level>
-  <class>ESPlorer.ESPlorer</class>
-  <method>log</method>
-  <thread>41</thread>
-  <message>recv:&gt; </message>
-</record>
-<record>
-  <date>2020-05-06T22:36:56</date>
-  <millis>1588775816208</millis>
-  <sequence>272</sequence>
-  <logger>ESPlorer.ESPlorer</logger>
-  <level>INFO</level>
-  <class>ESPlorer.ESPlorer</class>
-  <method>log</method>
-  <thread>16</thread>
-  <message>7</message>
-</record>
-<record>
-  <date>2020-05-06T22:36:56</date>
-  <millis>1588775816208</millis>
-  <sequence>273</sequence>
-  <logger>ESPlorer.ESPlorer</logger>
-  <level>INFO</level>
-  <class>ESPlorer.ESPlorer</class>
-  <method>log</method>
-  <thread>16</thread>
-  <message>sending:w([==[station_info={}]==]);&lt;CR&gt;&lt;LF&gt;</message>
-</record>
-<record>
-  <date>2020-05-06T22:36:56</date>
-  <millis>1588775816212</millis>
-  <sequence>274</sequence>
-  <logger>ESPlorer.ESPlorer</logger>
-  <level>INFO</level>
-  <class>ESPlorer.ESPlorer</class>
-  <method>log</method>
-  <thread>41</thread>
-  <message>recv:w([==[station_info={}]==]);&lt;CR&gt;&lt;LF&gt;</message>
-</record>
-<record>
-  <date>2020-05-06T22:36:56</date>
-  <millis>1588775816216</millis>
-  <sequence>275</sequence>
-  <logger>ESPlorer.ESPlorer</logger>
-  <level>INFO</level>
-  <class>ESPlorer.ESPlorer</class>
-  <method>log</method>
-  <thread>41</thread>
-  <message>recv:&gt; </message>
-</record>
-<record>
-  <date>2020-05-06T22:36:56</date>
-  <millis>1588775816225</millis>
-  <sequence>276</sequence>
-  <logger>ESPlorer.ESPlorer</logger>
-  <level>INFO</level>
-  <class>ESPlorer.ESPlorer</class>
-  <method>log</method>
-  <thread>16</thread>
-  <message>8</message>
-</record>
-<record>
-  <date>2020-05-06T22:36:56</date>
-  <millis>1588775816228</millis>
-  <sequence>277</sequence>
-  <logger>ESPlorer.ESPlorer</logger>
-  <level>INFO</level>
-  <class>ESPlorer.ESPlorer</class>
-  <method>log</method>
-  <thread>16</thread>
-  <message>sending:w([==[station_info.ssid="Isprition"]==]);&lt;CR&gt;&lt;LF&gt;</message>
-</record>
-<record>
-  <date>2020-05-06T22:36:56</date>
-  <millis>1588775816233</millis>
-  <sequence>278</sequence>
-  <logger>ESPlorer.ESPlorer</logger>
-  <level>INFO</level>
-  <class>ESPlorer.ESPlorer</class>
-  <method>log</method>
-  <thread>41</thread>
-  <message>recv:w([==[station_info.ssid="Ispriti</message>
-</record>
-<record>
-  <date>2020-05-06T22:36:56</date>
-  <millis>1588775816235</millis>
-  <sequence>279</sequence>
-  <logger>ESPlorer.ESPlorer</logger>
-  <level>INFO</level>
-  <class>ESPlorer.ESPlorer</class>
-  <method>log</method>
-  <thread>41</thread>
-  <message>recv:on"]==]);&lt;CR&gt;&lt;LF&gt;</message>
-</record>
-<record>
-  <date>2020-05-06T22:36:56</date>
-  <millis>1588775816239</millis>
-  <sequence>280</sequence>
-  <logger>ESPlorer.ESPlorer</logger>
-  <level>INFO</level>
-  <class>ESPlorer.ESPlorer</class>
-  <method>log</method>
-  <thread>41</thread>
-  <message>recv:&gt; </message>
-</record>
-<record>
-  <date>2020-05-06T22:36:56</date>
-  <millis>1588775816249</millis>
-  <sequence>281</sequence>
-  <logger>ESPlorer.ESPlorer</logger>
-  <level>INFO</level>
-  <class>ESPlorer.ESPlorer</class>
-  <method>log</method>
-  <thread>16</thread>
-  <message>9</message>
-</record>
-<record>
-  <date>2020-05-06T22:36:56</date>
-  <millis>1588775816249</millis>
-  <sequence>282</sequence>
-  <logger>ESPlorer.ESPlorer</logger>
-  <level>INFO</level>
-  <class>ESPlorer.ESPlorer</class>
-  <method>log</method>
-  <thread>16</thread>
-  <message>sending:w([==[station_info.pwd="P-6h6662"]==]);&lt;CR&gt;&lt;LF&gt;</message>
-</record>
-<record>
-  <date>2020-05-06T22:36:56</date>
-  <millis>1588775816253</millis>
-  <sequence>283</sequence>
-  <logger>ESPlorer.ESPlorer</logger>
-  <level>INFO</level>
-  <class>ESPlorer.ESPlorer</class>
-  <method>log</method>
-  <thread>41</thread>
-  <message>recv:w([==[station_info.pwd="P-6h6662</message>
-</record>
-<record>
-  <date>2020-05-06T22:36:56</date>
-  <millis>1588775816256</millis>
-  <sequence>284</sequence>
-  <logger>ESPlorer.ESPlorer</logger>
-  <level>INFO</level>
-  <class>ESPlorer.ESPlorer</class>
-  <method>log</method>
-  <thread>41</thread>
-  <message>recv:"]==]);&lt;CR&gt;&lt;LF&gt;</message>
-</record>
-<record>
-  <date>2020-05-06T22:36:56</date>
-  <millis>1588775816259</millis>
-  <sequence>285</sequence>
-  <logger>ESPlorer.ESPlorer</logger>
-  <level>INFO</level>
-  <class>ESPlorer.ESPlorer</class>
-  <method>log</method>
-  <thread>41</thread>
-  <message>recv:&gt; </message>
-</record>
-<record>
-  <date>2020-05-06T22:36:56</date>
-  <millis>1588775816270</millis>
-  <sequence>286</sequence>
-  <logger>ESPlorer.ESPlorer</logger>
-  <level>INFO</level>
-  <class>ESPlorer.ESPlorer</class>
-  <method>log</method>
-  <thread>16</thread>
-  <message>10</message>
-</record>
-<record>
-  <date>2020-05-06T22:36:56</date>
-  <millis>1588775816271</millis>
-  <sequence>287</sequence>
-  <logger>ESPlorer.ESPlorer</logger>
-  <level>INFO</level>
-  <class>ESPlorer.ESPlorer</class>
-  <method>log</method>
-  <thread>16</thread>
-  <message>sending:w([==[]==]);&lt;CR&gt;&lt;LF&gt;</message>
-</record>
-<record>
-  <date>2020-05-06T22:36:56</date>
-  <millis>1588775816274</millis>
-  <sequence>288</sequence>
-  <logger>ESPlorer.ESPlorer</logger>
-  <level>INFO</level>
-  <class>ESPlorer.ESPlorer</class>
-  <method>log</method>
-  <thread>41</thread>
-  <message>recv:w([==[]==]);&lt;CR&gt;&lt;LF&gt;</message>
-</record>
-<record>
-  <date>2020-05-06T22:36:56</date>
-  <millis>1588775816278</millis>
-  <sequence>289</sequence>
-  <logger>ESPlorer.ESPlorer</logger>
-  <level>INFO</level>
-  <class>ESPlorer.ESPlorer</class>
-  <method>log</method>
-  <thread>41</thread>
-  <message>recv:&gt; </message>
-</record>
-<record>
-  <date>2020-05-06T22:36:56</date>
-  <millis>1588775816287</millis>
-  <sequence>290</sequence>
-  <logger>ESPlorer.ESPlorer</logger>
-  <level>INFO</level>
-  <class>ESPlorer.ESPlorer</class>
-  <method>log</method>
-  <thread>16</thread>
-  <message>11</message>
-</record>
-<record>
-  <date>2020-05-06T22:36:56</date>
-  <millis>1588775816289</millis>
-  <sequence>291</sequence>
-  <logger>ESPlorer.ESPlorer</logger>
-  <level>INFO</level>
-  <class>ESPlorer.ESPlorer</class>
-  <method>log</method>
-  <thread>16</thread>
-  <message>sending:w([==[print("Configurating...")]==]);&lt;CR&gt;&lt;LF&gt;</message>
-</record>
-<record>
-  <date>2020-05-06T22:36:56</date>
-  <millis>1588775816293</millis>
-  <sequence>292</sequence>
-  <logger>ESPlorer.ESPlorer</logger>
-  <level>INFO</level>
-  <class>ESPlorer.ESPlorer</class>
-  <method>log</method>
-  <thread>41</thread>
-  <message>recv:w([==[print("Configurating...")]</message>
-</record>
-<record>
-  <date>2020-05-06T22:36:56</date>
-  <millis>1588775816297</millis>
-  <sequence>293</sequence>
-  <logger>ESPlorer.ESPlorer</logger>
-  <level>INFO</level>
-  <class>ESPlorer.ESPlorer</class>
-  <method>log</method>
-  <thread>41</thread>
-  <message>recv:==]);&lt;CR&gt;&lt;LF&gt;</message>
-</record>
-<record>
-  <date>2020-05-06T22:36:56</date>
-  <millis>1588775816300</millis>
-  <sequence>294</sequence>
-  <logger>ESPlorer.ESPlorer</logger>
-  <level>INFO</level>
-  <class>ESPlorer.ESPlorer</class>
-  <method>log</method>
-  <thread>41</thread>
-  <message>recv:&gt; </message>
-</record>
-<record>
-  <date>2020-05-06T22:36:56</date>
-  <millis>1588775816310</millis>
-  <sequence>295</sequence>
-  <logger>ESPlorer.ESPlorer</logger>
-  <level>INFO</level>
-  <class>ESPlorer.ESPlorer</class>
-  <method>log</method>
-  <thread>16</thread>
-  <message>12</message>
-</record>
-<record>
-  <date>2020-05-06T22:36:56</date>
-  <millis>1588775816312</millis>
-  <sequence>296</sequence>
-  <logger>ESPlorer.ESPlorer</logger>
-  <level>INFO</level>
-  <class>ESPlorer.ESPlorer</class>
-  <method>log</method>
-  <thread>16</thread>
-  <message>sending:w([==[]==]);&lt;CR&gt;&lt;LF&gt;</message>
-</record>
-<record>
-  <date>2020-05-06T22:36:56</date>
-  <millis>1588775816315</millis>
-  <sequence>297</sequence>
-  <logger>ESPlorer.ESPlorer</logger>
-  <level>INFO</level>
-  <class>ESPlorer.ESPlorer</class>
-  <method>log</method>
-  <thread>41</thread>
-  <message>recv:w([==[]==]);&lt;CR&gt;&lt;LF&gt;</message>
-</record>
-<record>
-  <date>2020-05-06T22:36:56</date>
-  <millis>1588775816318</millis>
-  <sequence>298</sequence>
-  <logger>ESPlorer.ESPlorer</logger>
-  <level>INFO</level>
-  <class>ESPlorer.ESPlorer</class>
-  <method>log</method>
-  <thread>41</thread>
-  <message>recv:&gt; </message>
-</record>
-<record>
-  <date>2020-05-06T22:36:56</date>
-  <millis>1588775816329</millis>
-  <sequence>299</sequence>
-  <logger>ESPlorer.ESPlorer</logger>
-  <level>INFO</level>
-  <class>ESPlorer.ESPlorer</class>
-  <method>log</method>
-  <thread>16</thread>
-  <message>13</message>
-</record>
-<record>
-  <date>2020-05-06T22:36:56</date>
-  <millis>1588775816329</millis>
-  <sequence>300</sequence>
-  <logger>ESPlorer.ESPlorer</logger>
-  <level>INFO</level>
-  <class>ESPlorer.ESPlorer</class>
-  <method>log</method>
-  <thread>16</thread>
-  <message>sending:w([==[wifi.sta.config(station_info)]==]);&lt;CR&gt;&lt;LF&gt;</message>
-</record>
-<record>
-  <date>2020-05-06T22:36:56</date>
-  <millis>1588775816332</millis>
-  <sequence>301</sequence>
-  <logger>ESPlorer.ESPlorer</logger>
-  <level>INFO</level>
-  <class>ESPlorer.ESPlorer</class>
-  <method>log</method>
-  <thread>41</thread>
-  <message>recv:w([==[wifi.sta.config(station_in</message>
-</record>
-<record>
-  <date>2020-05-06T22:36:56</date>
-  <millis>1588775816334</millis>
-  <sequence>302</sequence>
-  <logger>ESPlorer.ESPlorer</logger>
-  <level>INFO</level>
-  <class>ESPlorer.ESPlorer</class>
-  <method>log</method>
-  <thread>41</thread>
-  <message>recv:fo)]==]);&lt;CR&gt;&lt;LF&gt;</message>
-</record>
-<record>
-  <date>2020-05-06T22:36:56</date>
-  <millis>1588775816339</millis>
-  <sequence>303</sequence>
-  <logger>ESPlorer.ESPlorer</logger>
-  <level>INFO</level>
-  <class>ESPlorer.ESPlorer</class>
-  <method>log</method>
-  <thread>41</thread>
-  <message>recv:&gt; </message>
-</record>
-<record>
-  <date>2020-05-06T22:36:56</date>
-  <millis>1588775816352</millis>
-  <sequence>304</sequence>
-  <logger>ESPlorer.ESPlorer</logger>
-  <level>INFO</level>
-  <class>ESPlorer.ESPlorer</class>
-  <method>log</method>
-  <thread>16</thread>
-  <message>14</message>
-</record>
-<record>
-  <date>2020-05-06T22:36:56</date>
-  <millis>1588775816353</millis>
-  <sequence>305</sequence>
-  <logger>ESPlorer.ESPlorer</logger>
-  <level>INFO</level>
-  <class>ESPlorer.ESPlorer</class>
-  <method>log</method>
-  <thread>16</thread>
-  <message>sending:w([==[]==]);&lt;CR&gt;&lt;LF&gt;</message>
-</record>
-<record>
-  <date>2020-05-06T22:36:56</date>
-  <millis>1588775816357</millis>
-  <sequence>306</sequence>
-  <logger>ESPlorer.ESPlorer</logger>
-  <level>INFO</level>
-  <class>ESPlorer.ESPlorer</class>
-  <method>log</method>
-  <thread>41</thread>
-  <message>recv:w([==[]==]);&lt;CR&gt;&lt;LF&gt;</message>
-</record>
-<record>
-  <date>2020-05-06T22:36:56</date>
-  <millis>1588775816361</millis>
-  <sequence>307</sequence>
-  <logger>ESPlorer.ESPlorer</logger>
-  <level>INFO</level>
-  <class>ESPlorer.ESPlorer</class>
-  <method>log</method>
-  <thread>41</thread>
-  <message>recv:&gt; </message>
-</record>
-<record>
-  <date>2020-05-06T22:36:56</date>
-  <millis>1588775816370</millis>
-  <sequence>308</sequence>
-  <logger>ESPlorer.ESPlorer</logger>
-  <level>INFO</level>
-  <class>ESPlorer.ESPlorer</class>
-  <method>log</method>
-  <thread>16</thread>
-  <message>15</message>
-</record>
-<record>
-  <date>2020-05-06T22:36:56</date>
-  <millis>1588775816372</millis>
-  <sequence>309</sequence>
-  <logger>ESPlorer.ESPlorer</logger>
-  <level>INFO</level>
-  <class>ESPlorer.ESPlorer</class>
-  <method>log</method>
-  <thread>16</thread>
-  <message>sending:w([==[print("Connecting...")]==]);&lt;CR&gt;&lt;LF&gt;</message>
-</record>
-<record>
-  <date>2020-05-06T22:36:56</date>
-  <millis>1588775816377</millis>
-  <sequence>310</sequence>
-  <logger>ESPlorer.ESPlorer</logger>
-  <level>INFO</level>
-  <class>ESPlorer.ESPlorer</class>
-  <method>log</method>
-  <thread>41</thread>
-  <message>recv:w([==[print("Connecting...")]==]</message>
-</record>
-<record>
-  <date>2020-05-06T22:36:56</date>
-  <millis>1588775816379</millis>
-  <sequence>311</sequence>
-  <logger>ESPlorer.ESPlorer</logger>
-  <level>INFO</level>
-  <class>ESPlorer.ESPlorer</class>
-  <method>log</method>
-  <thread>41</thread>
-  <message>recv:);&lt;CR&gt;&lt;LF&gt;</message>
-</record>
-<record>
-  <date>2020-05-06T22:36:56</date>
-  <millis>1588775816383</millis>
-  <sequence>312</sequence>
-  <logger>ESPlorer.ESPlorer</logger>
-  <level>INFO</level>
-  <class>ESPlorer.ESPlorer</class>
-  <method>log</method>
-  <thread>41</thread>
-  <message>recv:&gt; </message>
-</record>
-<record>
-  <date>2020-05-06T22:36:56</date>
-  <millis>1588775816390</millis>
-  <sequence>313</sequence>
-  <logger>ESPlorer.ESPlorer</logger>
-  <level>INFO</level>
-  <class>ESPlorer.ESPlorer</class>
-  <method>log</method>
-  <thread>16</thread>
-  <message>16</message>
-</record>
-<record>
-  <date>2020-05-06T22:36:56</date>
-  <millis>1588775816391</millis>
-  <sequence>314</sequence>
-  <logger>ESPlorer.ESPlorer</logger>
-  <level>INFO</level>
-  <class>ESPlorer.ESPlorer</class>
-  <method>log</method>
-  <thread>16</thread>
-  <message>sending:w([==[]==]);&lt;CR&gt;&lt;LF&gt;</message>
-</record>
-<record>
-  <date>2020-05-06T22:36:56</date>
-  <millis>1588775816394</millis>
-  <sequence>315</sequence>
-  <logger>ESPlorer.ESPlorer</logger>
-  <level>INFO</level>
-  <class>ESPlorer.ESPlorer</class>
-  <method>log</method>
-  <thread>41</thread>
-  <message>recv:w([==[]==]);&lt;CR&gt;&lt;LF&gt;</message>
-</record>
-<record>
-  <date>2020-05-06T22:36:56</date>
-  <millis>1588775816398</millis>
-  <sequence>316</sequence>
-  <logger>ESPlorer.ESPlorer</logger>
-  <level>INFO</level>
-  <class>ESPlorer.ESPlorer</class>
-  <method>log</method>
-  <thread>41</thread>
-  <message>recv:&gt; </message>
-</record>
-<record>
-  <date>2020-05-06T22:36:56</date>
-  <millis>1588775816406</millis>
-  <sequence>317</sequence>
-  <logger>ESPlorer.ESPlorer</logger>
-  <level>INFO</level>
-  <class>ESPlorer.ESPlorer</class>
-  <method>log</method>
-  <thread>16</thread>
-  <message>17</message>
-</record>
-<record>
-  <date>2020-05-06T22:36:56</date>
-  <millis>1588775816408</millis>
-  <sequence>318</sequence>
-  <logger>ESPlorer.ESPlorer</logger>
-  <level>INFO</level>
-  <class>ESPlorer.ESPlorer</class>
-  <method>log</method>
-  <thread>16</thread>
-  <message>sending:w([==[wifi.sta.connect()]==]);&lt;CR&gt;&lt;LF&gt;</message>
-</record>
-<record>
-  <date>2020-05-06T22:36:56</date>
-  <millis>1588775816413</millis>
-  <sequence>319</sequence>
-  <logger>ESPlorer.ESPlorer</logger>
-  <level>INFO</level>
-  <class>ESPlorer.ESPlorer</class>
-  <method>log</method>
-  <thread>41</thread>
-  <message>recv:w([==[wifi.sta.connect()]==]);&lt;CR&gt;&lt;LF&gt;</message>
-</record>
-<record>
-  <date>2020-05-06T22:36:56</date>
-  <millis>1588775816417</millis>
-  <sequence>320</sequence>
-  <logger>ESPlorer.ESPlorer</logger>
-  <level>INFO</level>
-  <class>ESPlorer.ESPlorer</class>
-  <method>log</method>
-  <thread>41</thread>
-  <message>recv:&gt; </message>
-</record>
-<record>
-  <date>2020-05-06T22:36:56</date>
-  <millis>1588775816425</millis>
-  <sequence>321</sequence>
-  <logger>ESPlorer.ESPlorer</logger>
-  <level>INFO</level>
-  <class>ESPlorer.ESPlorer</class>
-  <method>log</method>
-  <thread>16</thread>
-  <message>18</message>
-</record>
-<record>
-  <date>2020-05-06T22:36:56</date>
-  <millis>1588775816426</millis>
-  <sequence>322</sequence>
-  <logger>ESPlorer.ESPlorer</logger>
-  <level>INFO</level>
-  <class>ESPlorer.ESPlorer</class>
-  <method>log</method>
-  <thread>16</thread>
-  <message>sending:w([==[--this need a connection checking program]==]);&lt;CR&gt;&lt;LF&gt;</message>
-</record>
-<record>
-  <date>2020-05-06T22:36:56</date>
-  <millis>1588775816429</millis>
-  <sequence>323</sequence>
-  <logger>ESPlorer.ESPlorer</logger>
-  <level>INFO</level>
-  <class>ESPlorer.ESPlorer</class>
-  <method>log</method>
-  <thread>41</thread>
-  <message>recv:w([==[--this need a connection c</message>
-</record>
-<record>
-  <date>2020-05-06T22:36:56</date>
-  <millis>1588775816432</millis>
-  <sequence>324</sequence>
-  <logger>ESPlorer.ESPlorer</logger>
-  <level>INFO</level>
-  <class>ESPlorer.ESPlorer</class>
-  <method>log</method>
-  <thread>41</thread>
-  <message>recv:hecking program]==]);&lt;CR&gt;&lt;LF&gt;</message>
-</record>
-<record>
-  <date>2020-05-06T22:36:56</date>
-  <millis>1588775816440</millis>
-  <sequence>325</sequence>
-  <logger>ESPlorer.ESPlorer</logger>
-  <level>INFO</level>
-  <class>ESPlorer.ESPlorer</class>
-  <method>log</method>
-  <thread>41</thread>
-  <message>recv:&gt; </message>
-</record>
-<record>
-  <date>2020-05-06T22:36:56</date>
-  <millis>1588775816443</millis>
-  <sequence>326</sequence>
-  <logger>ESPlorer.ESPlorer</logger>
-  <level>INFO</level>
-  <class>ESPlorer.ESPlorer</class>
-  <method>log</method>
-  <thread>16</thread>
-  <message>19</message>
-</record>
-<record>
-  <date>2020-05-06T22:36:56</date>
-  <millis>1588775816443</millis>
-  <sequence>327</sequence>
-  <logger>ESPlorer.ESPlorer</logger>
-  <level>INFO</level>
-  <class>ESPlorer.ESPlorer</class>
-  <method>log</method>
-  <thread>16</thread>
-  <message>sending:file.close();&lt;CR&gt;&lt;LF&gt;</message>
-</record>
-<record>
-  <date>2020-05-06T22:36:56</date>
-  <millis>1588775816446</millis>
-  <sequence>328</sequence>
-  <logger>ESPlorer.ESPlorer</logger>
-  <level>INFO</level>
-  <class>ESPlorer.ESPlorer</class>
-  <method>log</method>
-  <thread>41</thread>
-  <message>recv:file.close();&lt;CR&gt;&lt;LF&gt;</message>
-</record>
-<record>
-  <date>2020-05-06T22:36:56</date>
-  <millis>1588775816456</millis>
-  <sequence>329</sequence>
-  <logger>ESPlorer.ESPlorer</logger>
-  <level>INFO</level>
-  <class>ESPlorer.ESPlorer</class>
-  <method>log</method>
-  <thread>41</thread>
-  <message>recv:&gt; </message>
-</record>
-<record>
-  <date>2020-05-06T22:36:56</date>
-  <millis>1588775816458</millis>
-  <sequence>330</sequence>
   <logger>ESPlorer.ESPlorer</logger>
   <level>INFO</level>
   <class>ESPlorer.ESPlorer</class>
@@ -3588,9 +1531,9 @@
   <message>20</message>
 </record>
 <record>
-  <date>2020-05-06T22:36:56</date>
-  <millis>1588775816459</millis>
-  <sequence>331</sequence>
+  <date>2020-05-12T17:12:15</date>
+  <millis>1589274735978</millis>
+  <sequence>144</sequence>
   <logger>ESPlorer.ESPlorer</logger>
   <level>INFO</level>
   <class>ESPlorer.ESPlorer</class>
@@ -3599,361 +1542,1637 @@
   <message>sending:dofile("init.lua");&lt;CR&gt;&lt;LF&gt;</message>
 </record>
 <record>
-  <date>2020-05-06T22:36:56</date>
-  <millis>1588775816462</millis>
-  <sequence>332</sequence>
+  <date>2020-05-12T17:12:15</date>
+  <millis>1589274735988</millis>
+  <sequence>145</sequence>
   <logger>ESPlorer.ESPlorer</logger>
   <level>INFO</level>
   <class>ESPlorer.ESPlorer</class>
   <method>log</method>
-  <thread>41</thread>
+  <thread>35</thread>
   <message>recv:dofile("init.lua");&lt;CR&gt;&lt;LF&gt;</message>
 </record>
 <record>
-  <date>2020-05-06T22:36:56</date>
-  <millis>1588775816476</millis>
-  <sequence>333</sequence>
+  <date>2020-05-12T17:12:16</date>
+  <millis>1589274736210</millis>
+  <sequence>146</sequence>
   <logger>ESPlorer.ESPlorer</logger>
   <level>INFO</level>
   <class>ESPlorer.ESPlorer</class>
   <method>log</method>
-  <thread>41</thread>
-  <message>Operation done. Duration = 444 ms</message>
+  <thread>35</thread>
+  <message>Operation done. Duration = 1538 ms</message>
 </record>
 <record>
-  <date>2020-05-06T22:37:00</date>
-  <millis>1588775820352</millis>
-  <sequence>334</sequence>
-  <logger>ESPlorer.ESPlorer</logger>
-  <level>INFO</level>
-  <class>ESPlorer.ESPlorer</class>
-  <method>log</method>
-  <thread>16</thread>
-  <message>Uploader: chooser selected file:1</message>
-</record>
-<record>
-  <date>2020-05-06T22:37:00</date>
-  <millis>1588775820354</millis>
-  <sequence>335</sequence>
+  <date>2020-05-12T17:12:17</date>
+  <millis>1589274737749</millis>
+  <sequence>147</sequence>
   <logger>ESPlorer.ESPlorer</logger>
   <level>INFO</level>
   <class>ESPlorer.ESPlorer</class>
   <method>log</method>
   <thread>16</thread>
-  <message>BinaryFileLoader: Try to load file init.lua ...</message>
+  <message>sending:dofile('init.lua')&lt;CR&gt;&lt;LF&gt;</message>
 </record>
 <record>
-  <date>2020-05-06T22:37:00</date>
-  <millis>1588775820355</millis>
-  <sequence>336</sequence>
+  <date>2020-05-12T17:16:35</date>
+  <millis>1589274995616</millis>
+  <sequence>148</sequence>
   <logger>ESPlorer.ESPlorer</logger>
   <level>INFO</level>
   <class>ESPlorer.ESPlorer</class>
   <method>log</method>
   <thread>16</thread>
-  <message>BinaryFileLoader: Load file init.lua: Success, size:269</message>
+  <message>Close port COM3 - Success.</message>
 </record>
 <record>
-  <date>2020-05-06T22:37:00</date>
-  <millis>1588775820356</millis>
-  <sequence>337</sequence>
+  <date>2020-05-12T20:16:36</date>
+  <millis>1589285796007</millis>
+  <sequence>149</sequence>
   <logger>ESPlorer.ESPlorer</logger>
   <level>INFO</level>
   <class>ESPlorer.ESPlorer</class>
   <method>log</method>
   <thread>16</thread>
-  <message>1. packets = 1</message>
+  <message>Serial port COM3 save as default.</message>
 </record>
 <record>
-  <date>2020-05-06T22:37:00</date>
-  <millis>1588775820357</millis>
-  <sequence>338</sequence>
+  <date>2020-05-12T20:16:36</date>
+  <millis>1589285796012</millis>
+  <sequence>150</sequence>
   <logger>ESPlorer.ESPlorer</logger>
   <level>INFO</level>
   <class>ESPlorer.ESPlorer</class>
   <method>log</method>
   <thread>16</thread>
-  <message>2. packets = 2</message>
+  <message>Baud rate 115200 save as default.</message>
 </record>
 <record>
-  <date>2020-05-06T22:37:00</date>
-  <millis>1588775820360</millis>
-  <sequence>339</sequence>
+  <date>2020-05-12T20:16:36</date>
+  <millis>1589285796013</millis>
+  <sequence>151</sequence>
   <logger>ESPlorer.ESPlorer</logger>
   <level>INFO</level>
   <class>ESPlorer.ESPlorer</class>
   <method>log</method>
   <thread>16</thread>
-  <message>3. packet = 0</message>
+  <message>Try to open port COM3, baud 115200, 8N1</message>
 </record>
 <record>
-  <date>2020-05-06T22:37:00</date>
-  <millis>1588775820362</millis>
-  <sequence>340</sequence>
+  <date>2020-05-12T20:16:36</date>
+  <millis>1589285796015</millis>
+  <sequence>152</sequence>
   <logger>ESPlorer.ESPlorer</logger>
   <level>INFO</level>
   <class>ESPlorer.ESPlorer</class>
   <method>log</method>
   <thread>16</thread>
-  <message>BinaryFileLoader: Prepare next packet for send, len=250</message>
+  <message>Open port COM3 - Success.</message>
 </record>
 <record>
-  <date>2020-05-06T22:37:00</date>
-  <millis>1588775820362</millis>
-  <sequence>341</sequence>
+  <date>2020-05-12T20:16:36</date>
+  <millis>1589285796029</millis>
+  <sequence>153</sequence>
   <logger>ESPlorer.ESPlorer</logger>
   <level>INFO</level>
   <class>ESPlorer.ESPlorer</class>
   <method>log</method>
   <thread>16</thread>
-  <message>3. packet = 1</message>
+  <message>sending:&lt;CR&gt;&lt;LF&gt;</message>
 </record>
 <record>
-  <date>2020-05-06T22:37:00</date>
-  <millis>1588775820362</millis>
-  <sequence>342</sequence>
+  <date>2020-05-12T20:16:36</date>
+  <millis>1589285796069</millis>
+  <sequence>154</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>38</thread>
+  <message>sending:=node.heap()&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2020-05-12T20:16:36</date>
+  <millis>1589285796074</millis>
+  <sequence>155</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>38</thread>
+  <message>Snippets: loading...</message>
+</record>
+<record>
+  <date>2020-05-12T20:16:36</date>
+  <millis>1589285796079</millis>
+  <sequence>156</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>38</thread>
+  <message>Snippets load: Success.</message>
+</record>
+<record>
+  <date>2020-05-12T20:16:52</date>
+  <millis>1589285812809</millis>
+  <sequence>157</sequence>
   <logger>ESPlorer.ESPlorer</logger>
   <level>INFO</level>
   <class>ESPlorer.ESPlorer</class>
   <method>log</method>
   <thread>16</thread>
-  <message>BinaryFileLoader: Prepare next packet for send, len=19</message>
+  <message>Close port COM3 - Success.</message>
 </record>
 <record>
-  <date>2020-05-06T22:37:00</date>
-  <millis>1588775820363</millis>
-  <sequence>343</sequence>
+  <date>2020-05-12T20:34:26</date>
+  <millis>1589286866523</millis>
+  <sequence>158</sequence>
   <logger>ESPlorer.ESPlorer</logger>
   <level>INFO</level>
   <class>ESPlorer.ESPlorer</class>
   <method>log</method>
   <thread>16</thread>
-  <message>BinaryFileLoader: Total packets prepared=2</message>
+  <message>Serial port COM3 save as default.</message>
 </record>
 <record>
-  <date>2020-05-06T22:37:00</date>
-  <millis>1588775820363</millis>
-  <sequence>344</sequence>
+  <date>2020-05-12T20:34:26</date>
+  <millis>1589286866524</millis>
+  <sequence>159</sequence>
   <logger>ESPlorer.ESPlorer</logger>
   <level>INFO</level>
   <class>ESPlorer.ESPlorer</class>
   <method>log</method>
   <thread>16</thread>
-  <message>sendPackets=2</message>
+  <message>Baud rate 115200 save as default.</message>
 </record>
 <record>
-  <date>2020-05-06T22:37:00</date>
-  <millis>1588775820364</millis>
-  <sequence>345</sequence>
+  <date>2020-05-12T20:34:26</date>
+  <millis>1589286866524</millis>
+  <sequence>160</sequence>
   <logger>ESPlorer.ESPlorer</logger>
   <level>INFO</level>
   <class>ESPlorer.ESPlorer</class>
   <method>log</method>
   <thread>16</thread>
-  <message>Uploader: Starting...</message>
+  <message>Try to open port COM3, baud 115200, 8N1</message>
 </record>
 <record>
-  <date>2020-05-06T22:37:00</date>
-  <millis>1588775820390</millis>
-  <sequence>346</sequence>
+  <date>2020-05-12T20:34:26</date>
+  <millis>1589286866525</millis>
+  <sequence>161</sequence>
   <logger>ESPlorer.ESPlorer</logger>
   <level>INFO</level>
   <class>ESPlorer.ESPlorer</class>
   <method>log</method>
   <thread>16</thread>
-  <message>Uploader: Add EventListener: Success.</message>
+  <message>Open port COM3 - Success.</message>
 </record>
 <record>
-  <date>2020-05-06T22:37:00</date>
-  <millis>1588775820391</millis>
-  <sequence>347</sequence>
+  <date>2020-05-12T20:34:26</date>
+  <millis>1589286866532</millis>
+  <sequence>162</sequence>
   <logger>ESPlorer.ESPlorer</logger>
   <level>INFO</level>
   <class>ESPlorer.ESPlorer</class>
   <method>log</method>
   <thread>16</thread>
-  <message>Uploader: Start</message>
+  <message>sending:&lt;CR&gt;&lt;LF&gt;</message>
 </record>
 <record>
-  <date>2020-05-06T22:37:00</date>
-  <millis>1588775820436</millis>
-  <sequence>348</sequence>
+  <date>2020-05-12T20:34:26</date>
+  <millis>1589286866557</millis>
+  <sequence>163</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>39</thread>
+  <message>sending:=node.heap()&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2020-05-12T20:34:26</date>
+  <millis>1589286866559</millis>
+  <sequence>164</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>39</thread>
+  <message>Snippets: loading...</message>
+</record>
+<record>
+  <date>2020-05-12T20:34:26</date>
+  <millis>1589286866561</millis>
+  <sequence>165</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>39</thread>
+  <message>Snippets load: Success.</message>
+</record>
+<record>
+  <date>2020-05-12T20:34:28</date>
+  <millis>1589286868569</millis>
+  <sequence>166</sequence>
   <logger>ESPlorer.ESPlorer</logger>
   <level>INFO</level>
   <class>ESPlorer.ESPlorer</class>
   <method>log</method>
   <thread>16</thread>
-  <message>sending: _up=function(n,l,ll) local cs = 0 local i = 0 print("&gt;".." ") uart.on("data", l, function(b) i = i + 1 file.open("init.lua",'a+') file.write(b) file.close() cs=0 for j=1, l do cs = cs + (b:byte(j)*20)%19 end</message>
+  <message>sending:=node.info()&lt;CR&gt;&lt;LF&gt;</message>
 </record>
 <record>
-  <date>2020-05-06T22:37:00</date>
-  <millis>1588775820483</millis>
-  <sequence>349</sequence>
+  <date>2020-05-12T20:34:28</date>
+  <millis>1589286868981</millis>
+  <sequence>167</sequence>
   <logger>ESPlorer.ESPlorer</logger>
   <level>INFO</level>
   <class>ESPlorer.ESPlorer</class>
   <method>log</method>
   <thread>16</thread>
-  <message>sending:          uart.write(0,"~~~CRC-".."START~~~"..cs.."~~~CRC-".."END~~~") if i == n then uart.on("data") end if i == n-1 and ll&gt;0 then _up(1,ll,ll) end end,0) end file.remove("init.lua")</message>
+  <message>sending:=node.heap()&lt;CR&gt;&lt;LF&gt;</message>
 </record>
 <record>
-  <date>2020-05-06T22:37:00</date>
-  <millis>1588775820535</millis>
-  <sequence>350</sequence>
+  <date>2020-05-12T22:16:00</date>
+  <millis>1589292960420</millis>
+  <sequence>168</sequence>
   <logger>ESPlorer.ESPlorer</logger>
   <level>INFO</level>
   <class>ESPlorer.ESPlorer</class>
   <method>log</method>
   <thread>16</thread>
-  <message>sending:_up(2,250,19)</message>
+  <message>Close port COM3 - Success.</message>
 </record>
 <record>
-  <date>2020-05-06T22:37:00</date>
-  <millis>1588775820626</millis>
-  <sequence>351</sequence>
-  <logger>ESPlorer.ESPlorer</logger>
-  <level>INFO</level>
-  <class>ESPlorer.ESPlorer</class>
-  <method>log</method>
-  <thread>48</thread>
-  <message>Uploader: receiving checksum 1/2 check: Success</message>
-</record>
-<record>
-  <date>2020-05-06T22:37:00</date>
-  <millis>1588775820657</millis>
-  <sequence>352</sequence>
-  <logger>ESPlorer.ESPlorer</logger>
-  <level>INFO</level>
-  <class>ESPlorer.ESPlorer</class>
-  <method>log</method>
-  <thread>48</thread>
-  <message>Uploader: receiving checksum 2/2 check: Success</message>
-</record>
-<record>
-  <date>2020-05-06T22:37:00</date>
-  <millis>1588775820659</millis>
-  <sequence>353</sequence>
-  <logger>ESPlorer.ESPlorer</logger>
-  <level>INFO</level>
-  <class>ESPlorer.ESPlorer</class>
-  <method>log</method>
-  <thread>48</thread>
-  <message>sending:_up=nil</message>
-</record>
-<record>
-  <date>2020-05-06T22:37:00</date>
-  <millis>1588775820660</millis>
-  <sequence>354</sequence>
-  <logger>ESPlorer.ESPlorer</logger>
-  <level>INFO</level>
-  <class>ESPlorer.ESPlorer</class>
-  <method>log</method>
-  <thread>48</thread>
-  <message>Uploader: Success</message>
-</record>
-<record>
-  <date>2020-05-06T22:37:00</date>
-  <millis>1588775820670</millis>
-  <sequence>355</sequence>
-  <logger>ESPlorer.ESPlorer</logger>
-  <level>INFO</level>
-  <class>ESPlorer.ESPlorer</class>
-  <method>log</method>
-  <thread>48</thread>
-  <message>Operation done. Duration = 303 ms</message>
-</record>
-<record>
-  <date>2020-05-06T22:37:21</date>
-  <millis>1588775841686</millis>
-  <sequence>356</sequence>
+  <date>2020-05-13T00:20:46</date>
+  <millis>1589300446887</millis>
+  <sequence>169</sequence>
   <logger>ESPlorer.ESPlorer</logger>
   <level>INFO</level>
   <class>ESPlorer.ESPlorer</class>
   <method>log</method>
   <thread>16</thread>
-  <message>Close port COM7 - Success.</message>
+  <message>Try to open file mqtt_connect.lua</message>
 </record>
 <record>
-  <date>2020-05-06T22:37:23</date>
-  <millis>1588775843109</millis>
-  <sequence>357</sequence>
+  <date>2020-05-13T00:20:46</date>
+  <millis>1589300446889</millis>
+  <sequence>170</sequence>
   <logger>ESPlorer.ESPlorer</logger>
   <level>INFO</level>
   <class>ESPlorer.ESPlorer</class>
   <method>log</method>
   <thread>16</thread>
-  <message>We save known file init.lua</message>
+  <message>File name: D:\Code\Github\Libbox_NodeMCU\code\MQTT\mqtt_connect.lua</message>
 </record>
 <record>
-  <date>2020-05-06T22:37:23</date>
-  <millis>1588775843109</millis>
-  <sequence>358</sequence>
+  <date>2020-05-13T00:20:46</date>
+  <millis>1589300446889</millis>
+  <sequence>171</sequence>
   <logger>ESPlorer.ESPlorer</logger>
   <level>INFO</level>
   <class>ESPlorer.ESPlorer</class>
   <method>log</method>
   <thread>16</thread>
-  <message>Try to saving file init.lua ...</message>
+  <message>Try to load file mqtt_connect.lua</message>
 </record>
 <record>
-  <date>2020-05-06T22:37:23</date>
-  <millis>1588775843109</millis>
-  <sequence>359</sequence>
+  <date>2020-05-13T00:20:46</date>
+  <millis>1589300446916</millis>
+  <sequence>172</sequence>
   <logger>ESPlorer.ESPlorer</logger>
   <level>INFO</level>
   <class>ESPlorer.ESPlorer</class>
   <method>log</method>
   <thread>16</thread>
-  <message>Save file init.lua: Success.</message>
+  <message>Loading mqtt_connect.lua: Success.</message>
 </record>
 <record>
-  <date>2020-05-06T22:37:25</date>
-  <millis>1588775845417</millis>
-  <sequence>360</sequence>
+  <date>2020-05-13T00:20:46</date>
+  <millis>1589300446916</millis>
+  <sequence>173</sequence>
   <logger>ESPlorer.ESPlorer</logger>
   <level>INFO</level>
   <class>ESPlorer.ESPlorer</class>
   <method>log</method>
   <thread>16</thread>
-  <message>File changed. Ask before closing.</message>
+  <message>Open "mqtt_connect.lua": Success.</message>
 </record>
 <record>
-  <date>2020-05-06T22:37:26</date>
-  <millis>1588775846743</millis>
-  <sequence>361</sequence>
+  <date>2020-05-13T00:20:59</date>
+  <millis>1589300459067</millis>
+  <sequence>174</sequence>
   <logger>ESPlorer.ESPlorer</logger>
   <level>INFO</level>
   <class>ESPlorer.ESPlorer</class>
   <method>log</method>
   <thread>16</thread>
-  <message>We save known file init.lua</message>
+  <message>Serial port COM3 save as default.</message>
 </record>
 <record>
-  <date>2020-05-06T22:37:26</date>
-  <millis>1588775846744</millis>
-  <sequence>362</sequence>
+  <date>2020-05-13T00:20:59</date>
+  <millis>1589300459067</millis>
+  <sequence>175</sequence>
   <logger>ESPlorer.ESPlorer</logger>
   <level>INFO</level>
   <class>ESPlorer.ESPlorer</class>
   <method>log</method>
   <thread>16</thread>
-  <message>Try to saving file init.lua ...</message>
+  <message>Baud rate 115200 save as default.</message>
 </record>
 <record>
-  <date>2020-05-06T22:37:26</date>
-  <millis>1588775846744</millis>
-  <sequence>363</sequence>
+  <date>2020-05-13T00:20:59</date>
+  <millis>1589300459068</millis>
+  <sequence>176</sequence>
   <logger>ESPlorer.ESPlorer</logger>
   <level>INFO</level>
   <class>ESPlorer.ESPlorer</class>
   <method>log</method>
   <thread>16</thread>
-  <message>Save file init.lua: Success.</message>
+  <message>Try to open port COM3, baud 115200, 8N1</message>
 </record>
 <record>
-  <date>2020-05-06T22:37:26</date>
-  <millis>1588775846786</millis>
-  <sequence>364</sequence>
+  <date>2020-05-13T00:20:59</date>
+  <millis>1589300459069</millis>
+  <sequence>177</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>Open port COM3 - Success.</message>
+</record>
+<record>
+  <date>2020-05-13T00:20:59</date>
+  <millis>1589300459075</millis>
+  <sequence>178</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>sending:&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2020-05-13T00:21:10</date>
+  <millis>1589300470617</millis>
+  <sequence>179</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>We save known file mqtt_connect.lua</message>
+</record>
+<record>
+  <date>2020-05-13T00:21:10</date>
+  <millis>1589300470617</millis>
+  <sequence>180</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>Try to saving file mqtt_connect.lua ...</message>
+</record>
+<record>
+  <date>2020-05-13T00:21:10</date>
+  <millis>1589300470618</millis>
+  <sequence>181</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>Save file mqtt_connect.lua: Success.</message>
+</record>
+<record>
+  <date>2020-05-13T00:21:10</date>
+  <millis>1589300470620</millis>
+  <sequence>182</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>FileSaveESP: Try to save file to ESP...</message>
+</record>
+<record>
+  <date>2020-05-13T00:21:10</date>
+  <millis>1589300470628</millis>
+  <sequence>183</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>DataSender: start "Smart Mode"</message>
+</record>
+<record>
+  <date>2020-05-13T00:21:10</date>
+  <millis>1589300470628</millis>
+  <sequence>184</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>FileSaveESP: Starting...</message>
+</record>
+<record>
+  <date>2020-05-13T00:21:10</date>
+  <millis>1589300470642</millis>
+  <sequence>185</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>0</message>
+</record>
+<record>
+  <date>2020-05-13T00:21:10</date>
+  <millis>1589300470642</millis>
+  <sequence>186</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>sending:file.remove("mqtt_connect.lua");&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2020-05-13T00:21:10</date>
+  <millis>1589300470645</millis>
+  <sequence>187</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>46</thread>
+  <message>recv:file.remove("mqtt_connect.lua");</message>
+</record>
+<record>
+  <date>2020-05-13T00:21:10</date>
+  <millis>1589300470647</millis>
+  <sequence>188</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>46</thread>
+  <message>recv:&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2020-05-13T00:21:10</date>
+  <millis>1589300470657</millis>
+  <sequence>189</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>1</message>
+</record>
+<record>
+  <date>2020-05-13T00:21:10</date>
+  <millis>1589300470657</millis>
+  <sequence>190</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>sending:file.open("mqtt_connect.lua","w+");&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2020-05-13T00:21:10</date>
+  <millis>1589300470665</millis>
+  <sequence>191</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>46</thread>
+  <message>recv:&gt; file.open("mqtt_connect.lua","</message>
+</record>
+<record>
+  <date>2020-05-13T00:21:10</date>
+  <millis>1589300470667</millis>
+  <sequence>192</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>46</thread>
+  <message>recv:w+");&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2020-05-13T00:21:10</date>
+  <millis>1589300470679</millis>
+  <sequence>193</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>2</message>
+</record>
+<record>
+  <date>2020-05-13T00:21:10</date>
+  <millis>1589300470680</millis>
+  <sequence>194</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>sending:w = file.writeline&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2020-05-13T00:21:10</date>
+  <millis>1589300470692</millis>
+  <sequence>195</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>46</thread>
+  <message>recv:&gt; w = file.writeline&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2020-05-13T00:21:10</date>
+  <millis>1589300470695</millis>
+  <sequence>196</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>46</thread>
+  <message>recv:&gt; </message>
+</record>
+<record>
+  <date>2020-05-13T00:21:10</date>
+  <millis>1589300470706</millis>
+  <sequence>197</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>3</message>
+</record>
+<record>
+  <date>2020-05-13T00:21:10</date>
+  <millis>1589300470706</millis>
+  <sequence>198</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>sending:w([==[]==]);&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2020-05-13T00:21:10</date>
+  <millis>1589300470709</millis>
+  <sequence>199</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>46</thread>
+  <message>recv:w([==[]==]);&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2020-05-13T00:21:10</date>
+  <millis>1589300470713</millis>
+  <sequence>200</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>46</thread>
+  <message>recv:&gt; </message>
+</record>
+<record>
+  <date>2020-05-13T00:21:10</date>
+  <millis>1589300470721</millis>
+  <sequence>201</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>4</message>
+</record>
+<record>
+  <date>2020-05-13T00:21:10</date>
+  <millis>1589300470722</millis>
+  <sequence>202</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>sending:w([==[--»ù±¾µÄÐÅÏ¢¶¼ÔÚÕâÀï¸ü¸Ä¼´¿É]==]);&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2020-05-13T00:21:10</date>
+  <millis>1589300470725</millis>
+  <sequence>203</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>46</thread>
+  <message>recv:w([==[--»ù±¾µÄÐÅÏ¢¶¼ÔÚÕâÀï¸ü¸Ä¼´</message>
+</record>
+<record>
+  <date>2020-05-13T00:21:10</date>
+  <millis>1589300470733</millis>
+  <sequence>204</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>46</thread>
+  <message>recv:¿É]==]);</message>
+</record>
+<record>
+  <date>2020-05-13T00:21:10</date>
+  <millis>1589300470746</millis>
+  <sequence>205</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>5</message>
+</record>
+<record>
+  <date>2020-05-13T00:21:10</date>
+  <millis>1589300470746</millis>
+  <sequence>206</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>sending:w([==[local info = {}]==]);&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2020-05-13T00:21:10</date>
+  <millis>1589300470751</millis>
+  <sequence>207</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>46</thread>
+  <message>recv:w([==[local info = {}]==]);&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2020-05-13T00:21:10</date>
+  <millis>1589300470754</millis>
+  <sequence>208</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>46</thread>
+  <message>recv:&gt; </message>
+</record>
+<record>
+  <date>2020-05-13T00:21:10</date>
+  <millis>1589300470762</millis>
+  <sequence>209</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>6</message>
+</record>
+<record>
+  <date>2020-05-13T00:21:10</date>
+  <millis>1589300470763</millis>
+  <sequence>210</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>sending:w([==[]==]);&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2020-05-13T00:21:10</date>
+  <millis>1589300470766</millis>
+  <sequence>211</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>46</thread>
+  <message>recv:w([==[]==]);&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2020-05-13T00:21:10</date>
+  <millis>1589300470769</millis>
+  <sequence>212</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>46</thread>
+  <message>recv:&gt; </message>
+</record>
+<record>
+  <date>2020-05-13T00:21:10</date>
+  <millis>1589300470777</millis>
+  <sequence>213</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>7</message>
+</record>
+<record>
+  <date>2020-05-13T00:21:10</date>
+  <millis>1589300470779</millis>
+  <sequence>214</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>sending:w([==[-- info.SSID = ""]==]);&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2020-05-13T00:21:10</date>
+  <millis>1589300470783</millis>
+  <sequence>215</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>46</thread>
+  <message>recv:w([==[-- info.SSID = ""]==]);&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2020-05-13T00:21:10</date>
+  <millis>1589300470787</millis>
+  <sequence>216</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>46</thread>
+  <message>recv:&gt; </message>
+</record>
+<record>
+  <date>2020-05-13T00:21:10</date>
+  <millis>1589300470795</millis>
+  <sequence>217</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>8</message>
+</record>
+<record>
+  <date>2020-05-13T00:21:10</date>
+  <millis>1589300470796</millis>
+  <sequence>218</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>sending:w([==[info.BROKER_IP = "192.168.1.167"]==]);&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2020-05-13T00:21:10</date>
+  <millis>1589300470799</millis>
+  <sequence>219</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>46</thread>
+  <message>recv:w([==[info.BROKER_IP = "192.168.</message>
+</record>
+<record>
+  <date>2020-05-13T00:21:10</date>
+  <millis>1589300470801</millis>
+  <sequence>220</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>46</thread>
+  <message>recv:1.167"]==]);&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2020-05-13T00:21:10</date>
+  <millis>1589300470805</millis>
+  <sequence>221</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>46</thread>
+  <message>recv:&gt; </message>
+</record>
+<record>
+  <date>2020-05-13T00:21:10</date>
+  <millis>1589300470812</millis>
+  <sequence>222</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>9</message>
+</record>
+<record>
+  <date>2020-05-13T00:21:10</date>
+  <millis>1589300470813</millis>
+  <sequence>223</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>sending:w([==[info.BROKER_PORT = 1980]==]);&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2020-05-13T00:21:10</date>
+  <millis>1589300470816</millis>
+  <sequence>224</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>46</thread>
+  <message>recv:w([==[info.BROKER_PORT = 1980]==</message>
+</record>
+<record>
+  <date>2020-05-13T00:21:10</date>
+  <millis>1589300470818</millis>
+  <sequence>225</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>46</thread>
+  <message>recv:]);&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2020-05-13T00:21:10</date>
+  <millis>1589300470821</millis>
+  <sequence>226</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>46</thread>
+  <message>recv:&gt; </message>
+</record>
+<record>
+  <date>2020-05-13T00:21:10</date>
+  <millis>1589300470829</millis>
+  <sequence>227</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>10</message>
+</record>
+<record>
+  <date>2020-05-13T00:21:10</date>
+  <millis>1589300470830</millis>
+  <sequence>228</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>sending:w([==[info.USERNAME = "nodemcu"]==]);&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2020-05-13T00:21:10</date>
+  <millis>1589300470833</millis>
+  <sequence>229</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>46</thread>
+  <message>recv:w([==[info.USERNAME = "nodemcu"]</message>
+</record>
+<record>
+  <date>2020-05-13T00:21:10</date>
+  <millis>1589300470835</millis>
+  <sequence>230</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>46</thread>
+  <message>recv:==]);&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2020-05-13T00:21:10</date>
+  <millis>1589300470839</millis>
+  <sequence>231</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>46</thread>
+  <message>recv:&gt; </message>
+</record>
+<record>
+  <date>2020-05-13T00:21:10</date>
+  <millis>1589300470847</millis>
+  <sequence>232</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>11</message>
+</record>
+<record>
+  <date>2020-05-13T00:21:10</date>
+  <millis>1589300470848</millis>
+  <sequence>233</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>sending:w([==[info.PASSWORD = "123"]==]);&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2020-05-13T00:21:10</date>
+  <millis>1589300470851</millis>
+  <sequence>234</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>46</thread>
+  <message>recv:w([==[info.PASSWORD = "123"]==])</message>
+</record>
+<record>
+  <date>2020-05-13T00:21:10</date>
+  <millis>1589300470853</millis>
+  <sequence>235</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>46</thread>
+  <message>recv:;&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2020-05-13T00:21:10</date>
+  <millis>1589300470856</millis>
+  <sequence>236</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>46</thread>
+  <message>recv:&gt; </message>
+</record>
+<record>
+  <date>2020-05-13T00:21:10</date>
+  <millis>1589300470865</millis>
+  <sequence>237</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>12</message>
+</record>
+<record>
+  <date>2020-05-13T00:21:10</date>
+  <millis>1589300470865</millis>
+  <sequence>238</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>sending:w([==[info.ID = node.chipid()]==]);&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2020-05-13T00:21:10</date>
+  <millis>1589300470869</millis>
+  <sequence>239</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>46</thread>
+  <message>recv:w([==[info.ID = node.chipid()]==</message>
+</record>
+<record>
+  <date>2020-05-13T00:21:10</date>
+  <millis>1589300470870</millis>
+  <sequence>240</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>46</thread>
+  <message>recv:]);&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2020-05-13T00:21:10</date>
+  <millis>1589300470875</millis>
+  <sequence>241</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>46</thread>
+  <message>recv:&gt; </message>
+</record>
+<record>
+  <date>2020-05-13T00:21:10</date>
+  <millis>1589300470881</millis>
+  <sequence>242</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>13</message>
+</record>
+<record>
+  <date>2020-05-13T00:21:10</date>
+  <millis>1589300470882</millis>
+  <sequence>243</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>sending:w([==[]==]);&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2020-05-13T00:21:10</date>
+  <millis>1589300470885</millis>
+  <sequence>244</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>46</thread>
+  <message>recv:w([==[]==]);&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2020-05-13T00:21:10</date>
+  <millis>1589300470888</millis>
+  <sequence>245</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>46</thread>
+  <message>recv:&gt; </message>
+</record>
+<record>
+  <date>2020-05-13T00:21:10</date>
+  <millis>1589300470896</millis>
+  <sequence>246</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>14</message>
+</record>
+<record>
+  <date>2020-05-13T00:21:10</date>
+  <millis>1589300470897</millis>
+  <sequence>247</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>sending:w([==[info.subscribe_topic = "/topic"]==]);&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2020-05-13T00:21:10</date>
+  <millis>1589300470900</millis>
+  <sequence>248</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>46</thread>
+  <message>recv:w([==[info.subscribe_topic = "/t</message>
+</record>
+<record>
+  <date>2020-05-13T00:21:10</date>
+  <millis>1589300470902</millis>
+  <sequence>249</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>46</thread>
+  <message>recv:opic"]==]);&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2020-05-13T00:21:10</date>
+  <millis>1589300470906</millis>
+  <sequence>250</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>46</thread>
+  <message>recv:&gt; </message>
+</record>
+<record>
+  <date>2020-05-13T00:21:10</date>
+  <millis>1589300470914</millis>
+  <sequence>251</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>15</message>
+</record>
+<record>
+  <date>2020-05-13T00:21:10</date>
+  <millis>1589300470915</millis>
+  <sequence>252</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>sending:w([==[info.publish_topic = "/topic"]==]);&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2020-05-13T00:21:10</date>
+  <millis>1589300470918</millis>
+  <sequence>253</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>46</thread>
+  <message>recv:w([==[info.publish_topic = "/top</message>
+</record>
+<record>
+  <date>2020-05-13T00:21:10</date>
+  <millis>1589300470920</millis>
+  <sequence>254</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>46</thread>
+  <message>recv:ic"]==]);&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2020-05-13T00:21:10</date>
+  <millis>1589300470929</millis>
+  <sequence>255</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>46</thread>
+  <message>recv:&gt; </message>
+</record>
+<record>
+  <date>2020-05-13T00:21:10</date>
+  <millis>1589300470933</millis>
+  <sequence>256</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>16</message>
+</record>
+<record>
+  <date>2020-05-13T00:21:10</date>
+  <millis>1589300470934</millis>
+  <sequence>257</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>sending:w([==[info.publish_message = "hello"]==]);&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2020-05-13T00:21:10</date>
+  <millis>1589300470938</millis>
+  <sequence>258</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>46</thread>
+  <message>recv:w([==[info.publish_message = "he</message>
+</record>
+<record>
+  <date>2020-05-13T00:21:10</date>
+  <millis>1589300470940</millis>
+  <sequence>259</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>46</thread>
+  <message>recv:llo"]==]);&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2020-05-13T00:21:10</date>
+  <millis>1589300470945</millis>
+  <sequence>260</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>46</thread>
+  <message>recv:&gt; </message>
+</record>
+<record>
+  <date>2020-05-13T00:21:10</date>
+  <millis>1589300470955</millis>
+  <sequence>261</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>17</message>
+</record>
+<record>
+  <date>2020-05-13T00:21:10</date>
+  <millis>1589300470955</millis>
+  <sequence>262</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>sending:w([==[]==]);&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2020-05-13T00:21:10</date>
+  <millis>1589300470958</millis>
+  <sequence>263</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>46</thread>
+  <message>recv:w([==[]==]);&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2020-05-13T00:21:10</date>
+  <millis>1589300470961</millis>
+  <sequence>264</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>46</thread>
+  <message>recv:&gt; </message>
+</record>
+<record>
+  <date>2020-05-13T00:21:10</date>
+  <millis>1589300470971</millis>
+  <sequence>265</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>18</message>
+</record>
+<record>
+  <date>2020-05-13T00:21:10</date>
+  <millis>1589300470971</millis>
+  <sequence>266</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>sending:w([==[]==]);&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2020-05-13T00:21:10</date>
+  <millis>1589300470975</millis>
+  <sequence>267</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>46</thread>
+  <message>recv:w([==[]==]);&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2020-05-13T00:21:10</date>
+  <millis>1589300470979</millis>
+  <sequence>268</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>46</thread>
+  <message>recv:&gt; </message>
+</record>
+<record>
+  <date>2020-05-13T00:21:10</date>
+  <millis>1589300470987</millis>
+  <sequence>269</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>19</message>
+</record>
+<record>
+  <date>2020-05-13T00:21:10</date>
+  <millis>1589300470987</millis>
+  <sequence>270</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>sending:w([==[--function(client)±íÊ¾Á¬½Ó³É¹¦µÄÇé¿ö]==]);&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2020-05-13T00:21:10</date>
+  <millis>1589300470990</millis>
+  <sequence>271</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>46</thread>
+  <message>recv:w([==[--function(client)±íÊ¾Á¬½Ó</message>
+</record>
+<record>
+  <date>2020-05-13T00:21:10</date>
+  <millis>1589300470994</millis>
+  <sequence>272</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>46</thread>
+  <message>recv:³É¹¦µÄÇé¿ö]==]);&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2020-05-13T00:21:10</date>
+  <millis>1589300470997</millis>
+  <sequence>273</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>46</thread>
+  <message>recv:&gt; </message>
+</record>
+<record>
+  <date>2020-05-13T00:21:11</date>
+  <millis>1589300471007</millis>
+  <sequence>274</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>20</message>
+</record>
+<record>
+  <date>2020-05-13T00:21:11</date>
+  <millis>1589300471007</millis>
+  <sequence>275</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>sending:w([==[--function(client,reason)±íÊ¾Á¬½Ó²»³É¹¦µÄÇé¿ö]==]);&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2020-05-13T00:21:11</date>
+  <millis>1589300471011</millis>
+  <sequence>276</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>46</thread>
+  <message>recv:w([==[--function(client,reason)?</message>
+</record>
+<record>
+  <date>2020-05-13T00:21:11</date>
+  <millis>1589300471014</millis>
+  <sequence>277</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>46</thread>
+  <message>recv:íÊ¾Á¬½Ó²»³É¹¦µÄÇé¿ö]==]);&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2020-05-13T00:21:11</date>
+  <millis>1589300471020</millis>
+  <sequence>278</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>46</thread>
+  <message>recv:&gt; </message>
+</record>
+<record>
+  <date>2020-05-13T00:21:14</date>
+  <millis>1589300474016</millis>
+  <sequence>279</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>Operation done. Duration = 3395 ms</message>
+</record>
+<record>
+  <date>2020-05-13T00:21:14</date>
+  <millis>1589300474017</millis>
+  <sequence>280</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>Waiting answer from ESP - Timeout reached. Command aborted.</message>
+</record>
+<record>
+  <date>2020-05-13T00:21:25</date>
+  <millis>1589300485913</millis>
+  <sequence>281</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>Close port COM3 - Success.</message>
+</record>
+<record>
+  <date>2020-05-13T00:25:13</date>
+  <millis>1589300713781</millis>
+  <sequence>282</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>Serial port COM3 save as default.</message>
+</record>
+<record>
+  <date>2020-05-13T00:25:13</date>
+  <millis>1589300713782</millis>
+  <sequence>283</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>Baud rate 115200 save as default.</message>
+</record>
+<record>
+  <date>2020-05-13T00:25:13</date>
+  <millis>1589300713782</millis>
+  <sequence>284</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>Try to open port COM3, baud 115200, 8N1</message>
+</record>
+<record>
+  <date>2020-05-13T00:25:13</date>
+  <millis>1589300713783</millis>
+  <sequence>285</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>Open port COM3 - Success.</message>
+</record>
+<record>
+  <date>2020-05-13T00:25:13</date>
+  <millis>1589300713790</millis>
+  <sequence>286</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>sending:&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2020-05-13T00:25:13</date>
+  <millis>1589300713815</millis>
+  <sequence>287</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>49</thread>
+  <message>sending:=node.heap()&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2020-05-13T00:25:13</date>
+  <millis>1589300713820</millis>
+  <sequence>288</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>49</thread>
+  <message>Snippets: loading...</message>
+</record>
+<record>
+  <date>2020-05-13T00:25:13</date>
+  <millis>1589300713821</millis>
+  <sequence>289</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>49</thread>
+  <message>Snippets load: Success.</message>
+</record>
+<record>
+  <date>2020-05-13T00:25:14</date>
+  <millis>1589300714250</millis>
+  <sequence>290</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>Close port COM3 - Success.</message>
+</record>
+<record>
+  <date>2020-05-13T00:25:15</date>
+  <millis>1589300715088</millis>
+  <sequence>291</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>FileTab removed: Success.</message>
+</record>
+<record>
+  <date>2020-05-13T00:25:15</date>
+  <millis>1589300715089</millis>
+  <sequence>292</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>File close: Success.</message>
+</record>
+<record>
+  <date>2020-05-13T00:25:15</date>
+  <millis>1589300715104</millis>
+  <sequence>293</sequence>
   <logger>ESPlorer.ESPlorer</logger>
   <level>INFO</level>
   <class>ESPlorer.ESPlorer</class>
@@ -3962,9 +3181,9 @@
   <message>FileTab cleared: Success.</message>
 </record>
 <record>
-  <date>2020-05-06T22:37:26</date>
-  <millis>1588775846788</millis>
-  <sequence>365</sequence>
+  <date>2020-05-13T00:25:15</date>
+  <millis>1589300715105</millis>
+  <sequence>294</sequence>
   <logger>ESPlorer.ESPlorer</logger>
   <level>INFO</level>
   <class>ESPlorer.ESPlorer</class>

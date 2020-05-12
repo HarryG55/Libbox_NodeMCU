@@ -49,6 +49,17 @@ NodeMCU联网测试代码存放在code-->connect to wifi-->init.lua中。
 
 
 ## 目前任务进展
+
+2020.5.13
+
+NodeMCU的相关MQTT代码已更新，保存于Code/MQTT/init.lua文件中。该文件集成了相关wifi连接的内容。
+
+所有重要的修改参数都集成在info数组中，方便进行统一配置和修改。
+
+在之后的开发中需要完成一次连接的问题（如果有多余的精力）
+
+
+
 NodeMCU尝试与Raspberry取得MQTT通信
 
 Raspberry需要进行和阿里云的联网配置

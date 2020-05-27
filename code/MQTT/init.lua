@@ -13,52 +13,90 @@ print("Connecting...")
 
 wifi.sta.connect()
 
+-------------------------------------
 
---基本的信息都在这里更改即可
 local info = {}
 
 -- info.SSID = ""
-info.BROKER_IP = "192.168.1.167"
-info.BROKER_PORT = 1980
-info.USERNAME = "nodemcu"
-info.PASSWORD = "123"
-info.ID = node.chipid()
+ProductKey="a1EN475h0sh"
+ClientId = wifi.sta.getmac()
+DeviceName="NodeMCU1"
+DeviceSecret="xXu6Y06FCOiOXxylmxdgdFud2hndomOM"
+RegionId="cn-shanghai"
 
-info.subscribe_topic = "/topic"
-info.publish_topic = "/topic"
-info.publish_message = "hello"
+myMQTTport=1883 --port
+myMQTT=nil  --client
+
+myMQTThost=ProductKey..".iot-as-mqtt."..RegionId..".aliyuncs.com" --host
+myMQTTusername=DeviceName.."&"..ProductKey --username
+
+topic0="/a1EN475h0sh/NodeMCU1/user/update"
+
+----------------------------
+function GetNetTime()
+    sntp.sync({"0.nodemcu.pool.ntp.org","1.nodemcu.pool.ntp.org","2.nodemcu.pool.ntp.org","3.nodemcu.pool.ntp.org","www.beijing-time.org"},
+            function(sec, usec, server, info)
+                    print('sync', sec, usec, server)       
+            end,
+            function()
+            print("get time error")
+            end)  
+    return 0
+end
+----------------------------
+
+myMQTTtimes='6666'
+hmacdata="clientId"..ClientId.."deviceName"..DeviceName.."productKey"..ProductKey.."timestamp"..myMQTTtimes
+myMQTTpassword=crypto.toHex(crypto.hmac("sha1",hmacdata,DeviceSecret))
+myMQTTClientId=ClientId.."|securemode=3,signmethod=hmacsha1,timestamp="..myMQTTtimes.."|"
+
+myMQTT=mqtt.Client(myMQTTClientId,120,myMQTTusername,myMQTTpassword)
 
 
---function(client)表示连接成功的情况
---function(client,reason)表示连接不成功的情况
+--timely connecting 
+MQTTconnectFlag=0
+tmr.create():alarm(1000,1,function()
+    if myMQTT~=nil then
+        print("Attempting client connect..")
+        myMQTT:connect(myMQTThost,myMQTTport,0,MQTTSuccess,MQTTFailed)
+    end
 
-new = mqtt.Client(info.ID,120,info.USERNAME,info.PASSWORD)
-
-new:on('connect',function(client) print('begin to connected...') end)   --貌似必须传入client
-
-new:on('offline',function(client) print('offline') end)
-
-new:on('message',function(client,topic,data)
-    print(topic..":")       --..指的是连接；
-        if data ~= nil then
-            print(data)     --如果内容非空，则打印内容
-        end
 end)
 
--- 0代表不进行安全加密（TLS）
+function MQTTSuccess(client)
+    print("MQTT connected")
+    client:subscribe(topic0,0,function(conn)
+        print("subscribe success")
+    end)
+    myMQTT=client
+    MQTTconnectFlag=1
+    tmr.stop(0)                 --stop the timer connection
+end
 
-new:connect(info.BROKER_IP,info.BROKER_PORT,0
+function MQTTFailed(client,reason)
+    print("Fail reason:"..reason)
+    MQTTconnectFlag=0
+    tmr.start(0)                --start the timer connection
+end
 
-    ,function(client) 
-        print('connect success!') 
-        -- 0:Qos level
-        new:subscribe(info.subscribe_topic,0,function(client) print("subscribe success") end)
-        -- 0:Qos level      0:retain flag
-        new:publish(info.publish_topic,info.publish_message,0,0,function(client) print("sent") end)
-
-    ,function(client,reason)
-        print("failed connection!reason:"..reason)
-
+myMQTT:on("offline",function(client)
+    print("offline")
+    tmr.start(0)
 end)
 
-new:close()
+myMQTT:on("message",function(client,topic,data)
+    print(topic..":")
+    if data ~= nil then
+        print(data)
+    end
+    
+end)
+
+tmr.create():alarm(5000,1,function()
+    if MQTTconnectFlag==1 and myMQTT~=nil then
+        myMQTT:publish(topic0,"this is data upload",0,0,function(client)
+            print("send OK")
+        end)
+    end
+end)
+
